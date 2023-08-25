@@ -10,7 +10,7 @@
     "location": { "address": "91-1033 Kaikauhaa St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "awjans", "url": "http://github.com/awjans" },
-      { "network": "linkedin", "username": "andreaw@jans", "url": "http://linkedin.com/in/andreawjans" }
+      { "network": "linkedin", "username": "andreaw@jans.org", "url": "http://linkedin.com/in/andreawjans" },
     ]
   },
   "interests": [
@@ -19,11 +19,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "C#", "PowerShell" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "PowerShell" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "Windows", "Unix", "Linux", "Git/GitHub", "g++", "javac" ]
     }
   ],
   "education": [
@@ -31,7 +31,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "20123-08-21",
+      "startDate": "Fall 2023",
       "endDate": "Present",
       "courses": [
       ]
@@ -40,17 +40,17 @@
       "institution": "Leeward Community College, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "A.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "Fall 2022",
+      "endDate": "Summer 2023",
       "courses": [
       ]
     },
     {
       "institution": "Arizona State University, Tempe, AZ",
-      "area": "",
+      "area": "Technological Entrepreneurship & Management",
       "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Spring 2020",
+      "endDate": "Spring 2021",
       "courses": [
       ]
     },
@@ -58,8 +58,8 @@
       "institution": "Clark College, Vancouver, WA",
       "area": "N/A",
       "studyType": "N/A",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Fall 2008",
+      "endDate": "Spring 2010",
       "courses": [
       ]
     },
@@ -67,8 +67,8 @@
       "institution": "Arizona State University",
       "area": "Industrial Design",
       "studyType": "B.A.",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Fall 1992",
+      "endDate": "Fall 1992",
       "courses": [
       ]
     },
@@ -76,8 +76,8 @@
       "institution": "Mesa Community College, Mesa, AZ",
       "area": "Computer Science",
       "studyType": "A.S.",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Spring 1989",
+      "endDate": "Spring 1992",
       "courses": [
       ]
     },
@@ -85,8 +85,8 @@
       "institution": "Tulane University, New Orleans, LA",
       "area": "Mechanical Engineering",
       "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Fall 1987",
+      "endDate": "Fall 1988",
       "courses": [
       ]
     }
@@ -105,10 +105,10 @@
   ],
   "awards": [
     {
-      "title": "Transfer Merit Scholorship",
-      "date": "2023-Present",
+      "title": "Transfer Merit Scholarship",
+      "date": "2023-2025",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming transfer students."
+      "summary": "Scholarships awarded to incoming transfer students that show exceptional merit."
     }
   ],
   "references": [
