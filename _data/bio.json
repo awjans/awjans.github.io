@@ -10,11 +10,12 @@
     "location": { "address": "91-1033 Kaikauhaa St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "awjans", "url": "http://github.com/awjans" },
-      { "network": "linkedin", "username": "andreaw@jans.org", "url": "http://linkedin.com/in/andreawjans" },
+      { "network": "linkedin", "username": "andreawjans", "url": "http://linkedin.com/in/andreawjans" },
     ]
   },
   "interests": [
-    { "name": "Automation" }
+    { "name": "Automation" },
+    { "name": "System Administration" }
   ],
   "skills": [
     {
@@ -31,23 +32,23 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2023",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]
     },
     {
       "institution": "Leeward Community College, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Computer Science (Not Awarded)",
       "studyType": "A.S.",
-      "startDate": "2022",
-      "endDate": "2023",
+      "startDate": "2022-08-01",
+      "endDate": "2023-08-11",
       "courses": [
       ]
     },
     {
       "institution": "Arizona State University, Tempe, AZ",
-      "area": "Technological Entrepreneurship & Management",
+      "area": "Technological Entrepreneurship & Management (Not Awarded)",
       "studyType": "B.S.",
       "startDate": "2020",
       "endDate": "2021",
@@ -65,7 +66,7 @@
     },
     {
       "institution": "Arizona State University",
-      "area": "Industrial Design",
+      "area": "Industrial Design (Not Awarded)",
       "studyType": "B.A.",
       "startDate": "1992",
       "endDate": "1992",
@@ -83,7 +84,7 @@
     },
     {
       "institution": "Tulane University, New Orleans, LA",
-      "area": "Mechanical Engineering",
+      "area": "Mechanical Engineering (Not Awarded)",
       "studyType": "B.S.",
       "startDate": "1987",
       "endDate": "1988",
@@ -98,7 +99,7 @@
       "website": "https://www.americanelectric.com",
       "startDate": "2016-06-01",
       "endDate": "Present",
-      "summary": "Manage IT",
+      "summary": "",
       "highlights": [
       ]
     }
