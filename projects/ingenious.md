@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ingenious/ingenious_square.png
 title: "Ingenious Partners, LLC"
-date: 2019
+date: 2019-02-16
 published: true
 labels:
   - PHP
@@ -15,16 +15,11 @@ labels:
 summary: "A responsive web site for a small company."
 ---
 
-<img class="img-fluid" src="../img/ingenious/ingenious-home-page.png">
+<img class="img-fluid" alt="Ingenious Partners, LLC Home Page" src="../img/ingenious/ingenious-home-page.png">
 
 Ingenious Partners, LLC is a website that I built for my own company. The project helped me learn how to design and implement a responsive website.
 
-Vacay is implemented using [Laravel](https://laravel.com/), a PHP application platform.
+Ingenious Partners, LLC is implemented using [Laravel](https://laravel.com/), a PHP application platform. I found it useful for it's templating engine and planned to leverage the internationalization features.
+In this project I gained experience with front-end website design and associated technologies.
 
-In this project I gained experience with front-end web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/awjans/ingenious">awjans/ingenious</a>

@@ -1,7 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+image: img/reflections/reflections_square.png
+title: "Reflections on Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 published: true
@@ -9,7 +10,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/reflections/reflections.png">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
