@@ -10,7 +10,7 @@ labels:
   - Engineering
 ---
 
-<img class="img-fluid" src="../img/reflections/reflections_banner.png">
+<img class="img-fluid" alt="Reflection of a tree in a pond at sunset" src="../img/reflections/reflections_banner.png">
 
 *Reflection: a thought, idea, or opinion formed or a remark made as a result of meditation.*<sup>1</sup>
 
