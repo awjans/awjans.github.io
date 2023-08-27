@@ -2,21 +2,22 @@
   "basics": {
     "name": "Andrea Jans",
     "label": "Student",
-    "picture": "/img/avatar.jpg",
+    "picture": "/img/profile.png",
     "email": "awjans@hawaii.edu",
     "phone": "808-824-9531",
     "website": "https://awjans.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "91-1033 Kaikauhaa St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "awjans", "url": "http://github.com/awjans" },
-      { "network": "linkedin", "username": "andreawjans", "url": "http://linkedin.com/in/andreawjans" }
+      { "network": "github", "username": "awjans", "url": "https://github.com/awjans"},
+      { "network": "linkedin", "username": "andreawjans", "url": "https://linkedin.com/in/andreawjans"}
     ]
   },
   "interests": [
     { "name": "Automation" },
     { "name": "Machine Learning" },
     { "name": "Artificial Intelligence" },
+    { "name": "Internationalization" },
     { "name": "System Administration" }
   ],
   "skills": [
@@ -26,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix", "Linux", "Git/GitHub", "g++", "javac" ]
+      "keywords": [ "Windows", "Unix", "Linux", "Git/GitHub", "g++", "javac", "make" ]
     }
   ],
   "education": [
@@ -101,17 +102,33 @@
       "website": "https://www.americanelectric.com",
       "startDate": "2016-06-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Manage IT for a company of approximately 150 employees",
       "highlights": [
+        "Assist employees with day-to-day computer issues",
+        "Write reports and run custom queries against the Enterprise Resourse Planning system",
+        "Track computer inventory and assignments",
+        "Manage Active Directory and Group Policy"
       ]
     }
   ],
   "awards": [
     {
       "title": "Transfer Merit Scholarship",
-      "date": "2023-2025",
+      "date": "2023-03-23",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming transfer students that show exceptional merit."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2023-06-02",
+      "awarder": "Leeward Community College",
+      "summary": "Awarded for academic excellence."
+    },
+    {
+      "title": "Phi Theta Kappa",
+      "date": "2023-02-04",
+      "awarder": "Phi Theta Kappa",
+      "summary": "Awarded for academic excellence."
     }
   ],
   "references": [

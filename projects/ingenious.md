@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ingenious/ingenious_square.png
 title: "Ingenious Partners, LLC"
-date: 2019-02-16
+date: 2020-11-09
 published: true
 labels:
   - PHP
@@ -12,7 +12,7 @@ labels:
   - CSS
   - Javascript
   - GitHub
-summary: "A responsive web site for a small company."
+summary: "A responsive website for a small company."
 ---
 
 <img class="img-fluid" alt="Ingenious Partners, LLC Home Page" src="../img/ingenious/ingenious-home-page.png">
