@@ -4,7 +4,7 @@ type: project
 image: img/wolterweddings/wolterweddings-square.png
 title: "Wolter Weddings"
 date: 2021-11-19
-published: false
+published: true
 labels:
   - HTML
   - CSS
