@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/perftune/perftune_square.png
+image: img/perftune/perftune-square.png
 title: "PerfTune"
 date: 2022-04-21
 published: true
