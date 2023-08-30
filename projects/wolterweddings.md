@@ -17,6 +17,6 @@ summary: "A responsive website so that people can tie the knot."
 
 Wolter Weddings is a website that I built for my Pastor. The project helped me learn how to design and implement a reactive website.
 
-Wolter Weddings is a modern one-page website that allows users to collapse sections.
+Wolter Weddings is a modern one-page website that allows users to collapse sections. The collapsing mechanism was implemented using Javascript and CSS.
 
 Source: <a href="https://github.com/awjans/wolterweddings">awjans/wolterweddings</a>
