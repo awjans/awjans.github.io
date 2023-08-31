@@ -109,6 +109,80 @@
         "Track computer inventory and assignments",
         "Manage Active Directory and Group Policy"
       ]
+    },
+    {
+      "company": "Viewpoint Construction Software",
+      "position": "Database Specialist",
+      "website": "https://www.viewpoint.com",
+      "startDate": "2014-02-01",
+      "endDate": "2016-05-01",
+      "summary": "Customize the software per customer specifications.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "CTDI",
+      "position": "Senior Software Engineer",
+      "website": "https://www.ctdi.com",
+      "startDate": "2012-10-01",
+      "endDate": "2014-02-01",
+      "summary": "Create software to automate the warehouse processes.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Vector Software",
+      "position": "Senior Software Engineer",
+      "startDate": "2010-08-01",
+      "endDate": "2012-09-01",
+      "summary": "Create software to extract and transform data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Northwest EIS OLAP",
+      "position": "Senior Software Engineer",
+      "startDate": "2010-03-01",
+      "endDate": "2010-06-01",
+      "summary": "Create software to extract and transform data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "PrivacyHarbor Inc",
+      "position": "Software Development Consultant",
+      "startDate": "2009-11-01",
+      "endDate": "2010-02-01",
+      "summary": "Optimize backend code to enhance performance.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Vector Software",
+      "position": "Senior Software Engineer",
+      "startDate": "2007-11-01",
+      "endDate": "2008-07-01",
+      "summary": "Create software to extract and transform data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "US Digital",
+      "position": "Senior Software Engineer",
+      "startDate": "2007-01-01",
+      "endDate": "2007-10-01",
+      "summary": "Create software to automate business processes.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Engenex Technologies LLC",
+      "position": "Director of Software Engineering",
+      "startDate": "2004-10-01",
+      "endDate": "2006-12-01",
+      "summary": "Manage a team of software engineeers.",
+      "highlights": [
+      ]
     }
   ],
   "awards": [
