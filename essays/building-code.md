@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-image: img/building-codes/building-codes-square.png
-title: "Building Codes"
+image: img/building-code/building-code-square.png
+title: "Building Code"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-17
 published: true
@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" alt="blueprint" src="../img/building-codes/building-codes.png">
+<img class="img-fluid" alt="blueprint" src="../img/building-code/building-code.png">
 
 ## Tools of the Trade
 
