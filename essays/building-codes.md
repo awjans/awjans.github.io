@@ -16,16 +16,16 @@ labels:
 
 In the construction trade, they have building codes that must be followed. These codes are designed to ensure that the building is safe and will not fall down. The building codes are put together by experts in the field, and are constantly being
 updated as new techniques and materials are developed. The building codes are enforced by inspectors who check the work as it is being done. If the work does not meet the building codes, it must be redone until it does.
-Licensed Contractors are required to follow the building codes. If they do not, they can lose their license and be fined. The building codes are there to protect the public. Unlicensed Contractors are not required to follow the building codes, and
+Licensed contractors are required to follow the building codes. If they do not, they can lose their license and be fined. The building codes are there to protect the public. Unlicensed contractors are typically working outside the system, and
 typically do not follow them. They are not held accountable for their work, and it shows in the quality.
 
 ## Development vs Engineering
 
-There are two types of people that write software: Developers and Engineers. Developers, similar to an Unlicensed Contractor, hack at code until it works. They are not concerned with the quality of the code, only that it works. They don't follow best
+There are two types of people that write software: Developers and Engineers. Developers, similar to an unlicensed contractor, hack at code until it works. They are not concerned with the quality of the code, only that it works. They don't follow best
 practices, and they don't write code that is maintainable. Developers don't follow coding standards. They don't write unit tests to ensure that the code functions as designed, or they do it as an after thought. Developers don't write documentation to
 explain how the code works. They assume it will always be their code until they grow weary of trying to maintain it.
 
-Engineers, on the other hand, are concerned with the quality of the code, just like a Licensed Contractor is with the building. They follow best practices, and write code that is maintainable: easy to read, understand, test and maintain. They follow
+Engineers, on the other hand, are concerned with the quality of the code, just like a licensed contractor is with the building. They follow best practices, and write code that is maintainable: easy to read, understand, test and maintain. They follow
 coding standards, much like building code standards, and use tools to ensure that the code meets those standards. They write unit tests to ensure that the code functions as designed. Engineers write documentation to explain how the code works. They
 use version control to track changes to the code. Engineers use issue tracking to track bugs and feature requests. They use continuous integration to ensure that the code builds and passes all tests. Engineers use continuous deployment to ensure that
 the code is deployed to production in a timely manner.
