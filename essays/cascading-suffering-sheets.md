@@ -15,6 +15,9 @@ labels:
 
 <img class="img-fluid" alt="css box model" src="../img/cascading-suffering-sheets/css-banner.png">
 
+I have a love-hate relationship with Cascading Style Sheets (CSS). I love the power and flexibility of CSS, but I hate the arcane rules that govern it. I love CSS Frameworks like Bootstraps, but hate that they do not simplify those arcane rules. As a
+back-end developer used to fighting with databases and servers, CSS is wizardry to me of a type that I am not used to casting.
+
 ## The Good
 
 The good thing about CSS is the basics are easy to learn and apply. The syntax, box model, and cascade are easy to understand. The browser developer tools are great for debugging and experimenting with CSS. Once you have the basics down, adding a CSS
