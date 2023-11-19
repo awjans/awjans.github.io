@@ -26,6 +26,65 @@ not have done myself. They did not read my mind, and if I could not fully explai
 I am giving Co-Pilot another try with the Final Project. But I have found that unless there is sufficient code to train it on, it is not very useful. I have also found that is generates a lot of words that are redundant when creating documentation.
 Very rarely does it generate something that is useful.
 
+### Experience WODs
+
+I though it important that I use my own skills and knowledge on the Workout of the Day (WOD) exercises. I did not want to use Co-Pilot or Chat-GPT to generate the code for me, because I would not learn anything.
+
+### In-class Practice WODs
+
+Even though these were practice, and not graded, I still wanted to do them myself.
+
+### In-class WODs
+
+I did not use Co-Pilot or Chat-GPT for these, because I wanted to show I to do them myself.
+
+### Essays
+
+Co-Pilot tried to help me with the essays, but I found that it was not very useful. It generated a lot of words that were redundant, and did not help me with the structure of the essay.
+
+### Final project
+
+I am using Co-Pilot for the Final Project, but I am finding that it is helpful only if there is sufficient exiting code to train it on. Otherwise it generates code that is not useful in the least.
+
+### Learning a concept / tutorial
+
+I relied on my own knowledge and experience to learn the concepts and tutorials. 
+
+### Answering a question in class or in Discord
+
+Again, I relied on my own knowledge and experience to answer questions in class or in Discord. Otherwise, I sat mute with the rest of the class.
+
+### Asking or answering a smart-question
+
+I don't think I should repeat myself, but my own knowledge and experience was all I needed to ask or answer a smart-question.
+
+### Coding example
+
+I read the documentation and used my own knowledge and experience to find the coding examples for which I needed assistance.
+
+### Explaining code
+
+40 years of writing code in various languages has given me the experience to explain code to others or myself.
+
+### Writing code
+
+I do not trust the AI to write code for me. I have found that it is better at suggesting code completion hints than generating code from scratch.
+
+### Documenting code
+
+Documentation? What is this documentation of which you speak. Klingons do not document their code.
+
+But seriously, the AI suggestions are wordy and repetitive. I have found that it is better to write the documentation myself.
+
+### Quality assurance
+
+Boy had I thought to use this for quality assurance, I would have not Did Not Finish (DNF) on WOD: JavaScript 2, as I misspelled the word 'constructor' in the code. My code wouldn't run and I could not figure out why. An AI would have caught that
+mistake and suggested a fix.
+
+### Other uses in ICS 314 not listed
+
+As you can guess, I am not a big fan of AI as the answer to doing my job for me. I have the skills and knowledge to know when to use it, and when not.
+
 ## Impact on Learning and Understanding
 
 I do not think that AI has had any impact on my learning and understanding. If I did not have the experience I do, I would not be able to tell when it is giving me garbage or gold. The problems I had in the Workout of the Day (WOD) exercises were
