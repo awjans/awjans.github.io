@@ -42,3 +42,5 @@ clear and concise issue description, which is crucial for effective communicatio
 In conclusion, this software engineering class has been more than just a web application development course. It has been a journey into the core principles of software engineering, unveiling the significance of concepts like Open Source Software
 Development, Configuration Management, and Agile Project Management. These principles transcend the boundaries of web development, offering valuable insights applicable to diverse software projects. As we move forward in our careers, we will continue
 to encounter these concepts, and the knowledge gained from this course will prove invaluable.
+
+*This essay was written with the help of Chat-GPT and Co-Pilot. It is a reflection on the use of Artificial Intelligence (AI) in the ICS 314 Software Engineering course.*
