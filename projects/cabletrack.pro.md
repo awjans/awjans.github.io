@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cabletrack/cabletrack-square.png
+image: img/cabletrack/cabletrack_square.png
 title: "CableTrack PRO"
 date: 2023-12-07
 published: true
