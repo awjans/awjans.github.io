@@ -22,12 +22,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "keywords": [ "C", "C++", "C#", "Java", "Javascript", "PowerShell" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix", "Linux", "Git/GitHub", "g++", "javac", "make" ]
+      "name": "Frameworks",
+      "keywords": [ "Node.js", "React.js", "BootStrap", "jQuery", "Meteor" ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [ "MS SQL Server", "Oracle MySQL", "MongoDB" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "Git/GitHub", "g++", "javac", "make" ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [ "Windows", "MacOS", "Linux", "Unix" ]
     }
   ],
   "education": [
