@@ -38,42 +38,10 @@
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
-      ]
-    },
-    {
-      "institution": "Leeward Community College, Honolulu, HI",
-      "area": "Computer Science (Not Awarded)",
-      "studyType": "A.S.",
-      "startDate": "2022-08-01",
-      "endDate": "2023-08-11",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Arizona State University, Tempe, AZ",
-      "area": "Technological Entrepreneurship & Management (Not Awarded)",
-      "studyType": "B.S.",
-      "startDate": "2020",
-      "endDate": "2021",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Clark College, Vancouver, WA",
-      "area": "N/A",
-      "studyType": "N/A",
-      "startDate": "2008",
-      "endDate": "2010",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Arizona State University",
-      "area": "Industrial Design (Not Awarded)",
-      "studyType": "B.A.",
-      "startDate": "1992",
-      "endDate": "1992",
-      "courses": [
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "HON 333 - Experiential Learning & Scholarly Engagement"
       ]
     },
     {
@@ -82,15 +50,6 @@
       "studyType": "A.S.",
       "startDate": "1989",
       "endDate": "1992",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Tulane University, New Orleans, LA",
-      "area": "Mechanical Engineering (Not Awarded)",
-      "studyType": "B.S.",
-      "startDate": "1987",
-      "endDate": "1988",
       "courses": [
       ]
     }
@@ -105,7 +64,7 @@
       "summary": "Manage IT for a company of approximately 150 employees",
       "highlights": [
         "Assist employees with day-to-day computer issues",
-        "Write reports and run custom queries against the Enterprise Resourse Planning system",
+        "Write reports and run custom queries against the Enterprise Resource Planning system",
         "Track computer inventory and assignments",
         "Manage Active Directory and Group Policy"
       ]
