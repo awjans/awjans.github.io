@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://app.cabletrack.pro/favicon.png
+image: img/cabletrack/cabletrack-square.png
 title: "CableTrack PRO"
 date: 2023-12-07
 published: true
