@@ -11,7 +11,7 @@ labels:
 - Artificial Intelligence
 ---
 
-<img class="img-fluid" alt="AI secrets" src="../img/ai/ai.png">
+![AI secrets](../img/ai/ai.png "AI secrets")
 
 #### Table of Contents
 + [I Introduction](#i-introduction)
@@ -106,7 +106,7 @@ I do not trust the AI to write code for me. I have found that it is better at su
 
 ### 12. Documenting code
 
-Documentation? What is this documentation of which you speak. Klingons do not document their code.
+Documentation? What is this documentation of which you speak. Klingon's do not document their code.
 
 But seriously, the AI suggestions are wordy and repetitive. I have found that it is better to write the documentation myself.
 
@@ -141,8 +141,8 @@ We experienced an AI-enhanced approach to learning about software engineering? I
 ## VII Future Considerations
 
 A lot of what I have learned over the years, besides writing elegant code, is how to do repetitive tasks quickly and efficiently. But Co-Pilot seems to only look at the current file, and does not look at the project as a whole. I think that if it
-could do that, and help me apply the pattern from one file to another, it would be more useful. I harken back to the code generators of the 90s, that took a description of what you wanted, and generated the code for you. I think that is the future of
-AI in software engineering, but we are not there yet.
+could do that, and help me apply the pattern from one file to another, it would be more useful. I hearken back to the code generators of the 90s, that took a description of what you wanted, and generated the code for you. I think that is the future
+of AI in software engineering, but we are not there yet.
 
 ## VIII Conclusion
 

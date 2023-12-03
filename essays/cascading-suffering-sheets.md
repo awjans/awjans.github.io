@@ -13,7 +13,7 @@ labels:
   - Front-End Development
 ---
 
-<img class="img-fluid" alt="css box model" src="../img/cascading-suffering-sheets/css-banner.png">
+![css box model](../img/cascading-suffering-sheets/css-banner.png "css box model")
 
 I have a love-hate relationship with Cascading Style Sheets (CSS). I love the power and flexibility of CSS, but I hate the arcane rules that govern it. I love CSS Frameworks like Bootstrap, but hate that they do not simplify those arcane rules. As a
 back-end developer used to fighting with databases and servers, CSS is wizardry to me of a type that I am not used to casting.

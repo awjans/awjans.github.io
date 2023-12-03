@@ -10,7 +10,7 @@ labels:
   - Background
 ---
 
-<img class="img-fluid" alt="crooked road" src="../img/how-i-became/how-i-became.png">
+![crooked road](../img/how-i-became/how-i-became.png "crooked road")
 
 ## Love at First Byte
 

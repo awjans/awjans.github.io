@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="img-fluid" alt="design pattern" src="../img/designpatterns/designpatterns-banner.png">
+![rug pattern](../img/designpatterns/designpatterns-banner.png "rug pattern")
 
 Rug weaving, a delicate and intricate craft, shares a curious similarity with the realm of software development. Just as a master rug weaver imparts the art of weaving through patterns to an apprentice, software developers employ design patterns to
 create robust, scalable, and maintainable code. This essay explores the concept of design patterns in software development, drawing a parallel with the art of rug weaving, and delves into personal experiences with these patterns.

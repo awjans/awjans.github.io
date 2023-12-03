@@ -10,7 +10,7 @@ labels:
   - Questions
 ---
 
-<img class="img-fluid" alt="questions" src="../img/smarter-questions/smarter-questions.png">
+![Questions](../img/smarter-questions/smarter-questions.png "Questions")
 
 ## The Rules
 

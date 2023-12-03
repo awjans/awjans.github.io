@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" alt="blueprint" src="../img/building-code/building-code.png">
+![blueprint](../img/building-code/building-code.png "blueprint")
 
 ## Tools of the Trade
 

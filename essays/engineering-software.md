@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" alt="software engineering" src="../img/engineering-software/engineering-software-banner.png">
+![software engineering](../img/engineering-software/engineering-software-banner.png "software engineering")
 
 ## Introduction
 

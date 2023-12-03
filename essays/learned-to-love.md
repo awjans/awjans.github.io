@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="img-fluid" alt="lovers at sunset" src="../img/learned-to-love/learned-to-love.png">
+![lovers at sunset](../img/learned-to-love/learned-to-love.png "love javascript")
 
 ## Way Back When
 
