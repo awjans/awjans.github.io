@@ -25,11 +25,11 @@ summary: "An app for Electricians to manage all of the meta-data about the cable
 [CableTrack PRO](https://app.cabletrack.pro) is the premier application allowing Electricians to manage all of the meta-data about the cables and wires they install on a project. CEOs, Project Managers, and Electricians will finally be on the same
 page as to the status of the electrical build. No more slips and scraps of paper with illegible handwriting that get lost or misplaced. Project Managers will be able to accurately pull completion data and accurately prepare bills.
 
-<img src="../img/cabletrack/landing-page.png" alt="Landing Page" width="600" />
+![Landing Page](../img/cabletrack/landing-page.png "Landing Page")
 
 [CableTrack PRO](https://app.cabletrack.pro) utilizes granular permissions to authorize users to perform actions and view forms. The navigation is instrumented so that the user only sees the links they can reach.
 
-<img src="../img/cabletrack/edit-pullin.png" alt="Edit PullIn" width="600" />
+![Edit PullIn](../img/cabletrack/edit-pullin.png "Edit PullIn")
 
 [CableTrack PRO](https://app.cabletrack.pro) is constructed on the foundational technologies of Node.js, React.js, BootStrap.js, Meteor, and MongoDB. Javascript was employed for both the back-end and front-end development of the application, while
 HTML and CSS were utilized to construct the user interface.
