@@ -1,16 +1,29 @@
 {
   "basics": {
-    "name": "Andrea Jans",
-    "label": "Student",
-    "picture": "/img/profile.png",
+    "name": "Andrea W Jans",
+    "label": "NRT Trainee",
+    "picture": "img/profile.png",
     "email": "awjans@hawaii.edu",
-    "phone": "808-824-9531",
-    "website": "https://awjans.github.io",
-    "summary": "I am working towards a Bachelor's in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "91-1033 Kaikauhaa St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://awjans.github.io/NRTechfolio/",
+    "summary": "I am an NRT DESCARTES trainee studying for an MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": {
+      "address": "4820 East Ekolu Way, Apt A",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "awjans", "url": "https://github.com/awjans"},
-      { "network": "linkedin", "username": "andreawjans", "url": "https://linkedin.com/in/andreawjans"}
+      {
+        "network": "github",
+        "username": "awjans",
+        "url": "https://github.com/awjans"
+      },
+      {
+        "network": "linkedin",
+        "username": "andreawjans",
+        "url": "https://linkedin.com/in/andreawjans"
+      }
     ]
   },
   "interests": [
@@ -23,37 +36,71 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "PowerShell" ]
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "Python",
+        "Javascript",
+        "PowerShell"
+      ]
     },
     {
       "name": "Frameworks",
-      "keywords": [ "Node.js", "React.js", "BootStrap", "jQuery", "Meteor" ]
+      "keywords": [
+        "Node.js",
+        "React.js",
+        "BootStrap",
+        "jQuery",
+        "Meteor",
+        "Haystack AI"
+      ]
     },
     {
       "name": "Databases",
-      "keywords": [ "MS SQL Server", "Oracle MySQL", "MongoDB" ]
+      "keywords": [
+        "MS SQL Server",
+        "Oracle MySQL",
+        "MongoDB"
+      ]
     },
     {
       "name": "Toolsets",
-      "keywords": [ "Git/GitHub", "g++", "javac", "make" ]
+      "keywords": [
+        "Git/GitHub",
+        "g++",
+        "javac",
+        "make"
+      ]
     },
     {
       "name": "Operating Systems",
-      "keywords": [ "Windows", "MacOS", "Linux", "Unix" ]
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Unix"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08-26",
+      "endDate": "2026",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
-      "endDate": "Present",
+      "endDate": "2025",
       "courses": [
-        "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering I",
-        "ICS 321 - Database Systems I",
-        "HON 333 - Experiential Learning & Scholarly Engagement"
       ]
     },
     {
@@ -157,6 +204,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "DESCARTES Fellowship",
+      "date": "2024-04-17",
+      "awarder": "University of Hawaii at Manoa, NSF STEM Research and Traineeship Grant",
+      "summary": "Data in Engineering and Society: Converging Applications, Research, and Training Enhancements for Students."
+    },
     {
       "title": "Transfer Merit Scholarship",
       "date": "2023-03-23",
