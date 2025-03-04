@@ -27,11 +27,21 @@
     ]
   },
   "interests": [
-    { "name": "Automation" },
-    { "name": "Machine Learning" },
-    { "name": "Artificial Intelligence" },
-    { "name": "Internationalization" },
-    { "name": "System Administration" }
+    {
+      "name": "Automation"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Internationalization"
+    },
+    {
+      "name": "System Administration"
+    }
   ],
   "skills": [
     {
