@@ -3,8 +3,6 @@ title: Resume
 layout: home
 ---
 
-{% require 'digest' %}
-
 <div style="background-color: var(--tf-page-bg-color);" class="bg-gradient py-3">
   <div class="container">
     {% if site.data.bio.work %}
@@ -50,7 +48,11 @@ layout: home
               {% endif %}
               {% endif %}
             </p>
-            <p class="m-0"></p>
+            <p class="m-0">
+              <input id="{{ entry.id + 'FT' }}" type="checkbox" {% if entry.fullTime %}checked{% endif %}><label for="{{ entry.id + 'FT' }}">Full Time</label>&nbsp;
+              <input id="{{ entry.id + 'PT' }}" type="checkbox" {% if entry.partTime %}checked{% endif %}><label for="{{ entry.id + 'PT' }}">Full Time</label>&nbsp;
+              <input id="{{ entry.id + 'V' }}" type="checkbox" {% if entry.volunteer %}checked{% endif %}><label for="{{ entry.id + 'V' }}">Full Time</label>
+            </p>
           </div>
         </div>
         {% endfor %}
