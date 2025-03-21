@@ -126,13 +126,18 @@ layout: home
             <p class="mb-0">Phone: {{ entry.phone }}</p>
             <p class="mb-0">URL: <a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
             <p class="mb-0">Position: {{ entry.position }}</p>
-            <p class="mb-0">{{ entry.summary }}</p>
+            <p class="mb-0">Duties: {{ entry.summary }}</p>
             {% if entry.highlights %}
             <ul>
               {% for highlight in entry.highlights %}
               <li>{{ highlight }}</li>
               {% endfor %}
             </ul>
+            {% endif %}
+            {% if entry.supervised %}
+            <p class="mb-0">Supervised: <input type="checkbox" checked>Yes&nbsp;<input type="checkbox">No&nbsp;&nbsp;# ofEmployees:&nbsp;{{ entry.supervised }}</p>
+            {% else %}
+            <p class="mb-0">Supervised: <input type="checkbox">Yes&nbsp;<input type="checkbox" checked>No&nbsp;&nbsp;# ofEmployees:&nbsp;{{ entry.supervised }}</p>
             {% endif %}
           </div>
           <div class="col-3">
