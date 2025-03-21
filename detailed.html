@@ -50,8 +50,8 @@ layout: home
             </p>
             <p class="m-0">
               <input id="{{ entry.id + 'FT' }}" type="checkbox" {% if entry.fullTime %}checked{% endif %}><label for="{{ entry.id + 'FT' }}">Full Time</label>&nbsp;
-              <input id="{{ entry.id + 'PT' }}" type="checkbox" {% if entry.partTime %}checked{% endif %}><label for="{{ entry.id + 'PT' }}">Full Time</label>&nbsp;
-              <input id="{{ entry.id + 'V' }}" type="checkbox" {% if entry.volunteer %}checked{% endif %}><label for="{{ entry.id + 'V' }}">Full Time</label>
+              <input id="{{ entry.id + 'PT' }}" type="checkbox" {% if entry.partTime %}checked{% endif %}><label for="{{ entry.id + 'PT' }}">Part Time</label>&nbsp;
+              <input id="{{ entry.id + 'V' }}" type="checkbox" {% if entry.volunteer %}checked{% endif %}><label for="{{ entry.id + 'V' }}">Volunteer</label>
             </p>
             <p class="m-0">
               Reason for Leaving: {{ entry.reason }}
