@@ -26,8 +26,8 @@ layout: home
             </ul>
             {% endif %}
             <p class="mb-0">Supervised:
-              <input id="{{ entry.id + 'Y' }}" type="checkbox" {% if entry.supervised && entry.supervised > 0 %}checked{% endif %}><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;
-              <input id="{{ entry.id + 'N' }}" type="checkbox" {% if entry.supervised && entry.supervised <= 0 %}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
+              <input id="{{ entry.id + 'Y' }}" type="checkbox" {% if entry.supervised&.> 0 %}checked{% endif %}><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;
+              <input id="{{ entry.id + 'N' }}" type="checkbox" {% if entry.supervised.nil? || entry.supervised <= 0 %}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
               # ofEmployees:&nbsp;{{ entry.supervised }}</p>
           </div>
           <div class="col-3">
