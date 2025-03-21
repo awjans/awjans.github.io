@@ -141,172 +141,286 @@
   "work": [
     {
       "company": "American Electric Company, LLC",
+      "address": "799 Kahelu Ave, Mililani, HI 96789",
+      "phone": "808.848.0751",
+      "website": "www.americanelectric.com",
       "position": "Director, IT",
-      "website": "https://www.americanelectric.com",
+      "supervisor": "Raylyn Hose; President",
       "startDate": "2016-06-01",
       "endDate": "2025-01-24",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 45,
       "summary": "Manage IT for a company of approximately 170 employees",
       "highlights": [
         "Assist employees with day-to-day computer issues",
         "Write reports and run custom queries against the Enterprise Resource Planning system",
         "Track computer inventory and assignments",
         "Manage Active Directory and Group Policy"
-      ]
+      ],
+      "supervised": 2,
+      "reason": "My position was consolidated into the corporate office.",
+      "contact": true
     },
     {
       "company": "Viewpoint Construction Software",
+      "address": "5665 Meadows Road, Suite 400, Lake Oswego, OR, 97035",
+      "phone": "971.255.4800",
+      "website": "www.viewpoint.com",
       "position": "Database Specialist",
-      "website": "https://www.viewpoint.com",
+      "supervisor": "Aaron Sahlstrom; Director, Client Services Operations",
       "startDate": "2014-02-01",
       "endDate": "2016-05-01",
-      "summary": "Customize the software per customer specifications.",
-      "highlights": [
-      ]
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
+      "summary": "Customize the Enterprise Resource Planning software per customer requirements.",
+      "reason": "A job in Hawaii was offered.",
+      "contact": true
     },
     {
-      "company": "CTDI",
+      "company": "Communications Test Design, Inc.",
+      "address": "22638 NE Townsend Way, Fairview, OR 97024",
+      "phone": "503.405.3515",
+      "website": "www.ctdi.com",
       "position": "Senior Software Engineer",
-      "website": "https://www.ctdi.com",
+      "supervisor": "Philip Gieschen; Lead Programmer",
       "startDate": "2012-10-01",
       "endDate": "2014-02-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to automate the warehouse processes.",
-      "highlights": [
-      ]
+      "reason": "I accomplished what I was hired to do.",
+      "contact": true
     },
     {
-      "company": "Vector Software",
+      "company": "Vector Software Corporation",
+      "address": "5 Third Street, San Francisco, CA 94103",
+      "phone": "408.450.5300",
+      "website": "www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Rose Chu; Principal",
       "startDate": "2010-08-01",
       "endDate": "2012-09-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to extract and transform data.",
-      "highlights": [
-      ]
+      "reason": "I accomplished what I was hired to do.",
+      "contact": true
     },
     {
       "company": "Northwest EIS OLAP",
+      "address": "404 East 15th Street, Suite 9, Vancouver, WA 98663",
+      "phone": "360.905.7934",
+      "website": "www.nweisolap.com",
       "position": "Senior Software Engineer",
+      "supervisor": "John Schaffers; Senior Consultant",
       "startDate": "2010-03-01",
       "endDate": "2010-06-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to extract and transform data.",
-      "highlights": [
-      ]
+      "reason": "My contract ended.",
+      "contact": true
     },
     {
       "company": "PrivacyHarbor Inc",
+      "address": "No longer exists",
       "position": "Software Development Consultant",
       "startDate": "2009-11-01",
       "endDate": "2010-02-01",
+      "fulltime": false,
+      "parttime": false,
+      "volunteer": true,
+      "avghours": 40,
       "summary": "Optimize backend code to enhance performance.",
-      "highlights": [
-      ]
+      "reason": "Company went bankrupt.",
+      "contact": false
     },
     {
-      "company": "Vector Software",
+      "company": "Vector Software Corporation",
+      "address": "5 Third Street, San Francisco, CA 94103",
+      "phone": "408.450.5300",
+      "website": "www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Rose Chu; Principal",
       "startDate": "2007-11-01",
       "endDate": "2008-07-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to extract and transform data.",
-      "highlights": [
-      ]
+      "reason": "My disability prevented me from working.",
+      "contact": true
     },
     {
       "company": "US Digital",
+      "address": "1400 NE 136th Avenue, Vancouver, Washington 98684",
+      "phone": "360.260.2468",
+      "website": "www.usdigital.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Bobby Wood; VP",
       "startDate": "2007-01-01",
       "endDate": "2007-10-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "Mutual understanding that the fit was not right.",
+      "contact": true
     },
     {
-      "company": "Engenex Technologies LLC",
-      "position": "Director of Software Engineering",
+      "company": "Engenex Technologies, LLC",
+      "address": "No longer exists",
+      "position": "Director, Software Engineering",
+      "supervisor": "Michael Mathews; President",
       "startDate": "2004-10-01",
       "endDate": "2006-12-01",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 60,
       "summary": "Manage a team of software engineers.",
-      "highlights": [
-      ]
+      "supervised": 12,
+      "reason": "Relocated.",
+      "contact": false
     },
     {
       "company": "Excell Data",
+      "address": "No longer exists",
       "position": "Associate",
       "startDate": "2004-05-01",
       "endDate": "2004-09-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 40,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "Contract ended.",
+      "contact": false
     },
     {
       "company": "SBI.Razorfish",
+      "address": "No longer exists",
       "position": "Senior Developer",
       "startDate": "2003-01-01",
       "endDate": "2004-04-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 60,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "Project ended.",
+      "contact": false
     },
     {
       "company": "Luminant Worldwide",
+      "address": "No longer exists",
       "position": "Senior Technical Specialist",
       "startDate": "2001-10-01",
       "endDate": "2003-01-31",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 60,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "Company was acquired by another company.",
+      "contact": false
     },
     {
       "company": "Vanteon",
+      "address": "No longer exists",
       "position": "Engineering Manager",
       "startDate": "2000-09-15",
       "endDate": "2001-09-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Manage team of software engineers and interface with customers.",
-      "highlights": [
-      ]
+      "supervised": 10,
+      "reason": "Disagreement with management.",
+      "contact": false
     },
     {
       "company": "ELF Technologies Inc",
+      "address": "No longer exists",
       "position": "Senior Developer",
       "startDate": "2000-05-01",
       "endDate": "2000-09-15",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "I accomplished what I was hired to do.",
+      "contact": false
     },
     {
       "company": "HK Systems",
+      "address": "No longer exists",
       "position": "Senior Software Engineer",
       "startDate": "1995-06-01",
       "endDate": "2000-04-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Implement an Enterprise Resource Planning system.",
-      "highlights": [
-      ]
+      "reason": "I grew tired of the constant travel.",
+      "contact": false
     },
     {
       "company": "Cara Corporation",
+      "address": "No longer exists",
       "position": "Associate",
       "startDate": "1995-03-01",
       "endDate": "1995-05-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "The contract ended.",
+      "contact": false
     },
     {
       "company": "Maxim Group",
+      "address": "No longer exists",
       "position": "Associate",
       "startDate": "1994-09-01",
       "endDate": "1995-02-28",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "The contract ended.",
+      "contact": false
     },
     {
       "company": "Rankin Technology Group",
+      "address": "No longer exists",
       "position": "Software Developer",
       "startDate": "1993-04-01",
       "endDate": "1994-09-30",
+      "fulltime": true,
+      "parttime": false,
+      "volunteer": false,
+      "avghours": 50,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "I wanted to relocate.",
+      "contact": false
     }
   ],
   "awards": [
