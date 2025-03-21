@@ -10,7 +10,7 @@ layout: home
       <div class="col-lg-9">
         {% for entry in site.data.bio.work %}
         <div class="row mb-3">
-          <div class="col-9">
+          <div class="col-6">
             <p class="mb-0"><b>Company: {{ entry.company }}</b></p>
             <p class="mb-0">Address: {{ entry.address }}</p>
             <p class="mb-0">Supervisor: {{ entry.supervisor }}</p>
@@ -30,7 +30,7 @@ layout: home
               <input id="{{ entry.id + 'N' }}" type="checkbox" {% if entry.supervised.nil? || entry.supervised <= 0 %}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
               # ofEmployees:&nbsp;{{ entry.supervised }}</p>
           </div>
-          <div class="col-3">
+          <div class="col-6">
             <p class="m-0">
               From: {% if entry.startDate %}
               {{ entry.startDate | slice: 5,2 }}/{{ entry.startDate | slice: 0,4 }}
