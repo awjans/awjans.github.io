@@ -30,121 +30,30 @@ layout: home
               {% endfor %}
             </ul>
             {% endif %}
-            {% if entry.supervised %}
-            <p class="mb-0">Supervised: <input id="{{ entry.id + 'Y' }}" type="checkbox" checked><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;<input id="{{ entry.id + 'N' }}" type="checkbox"><label for="{{ entry.id + 'N' }}">No</label>
-              &nbsp;&nbsp;# ofEmployees:&nbsp;{{ entry.supervised }}</p>
-            {% else %}
-            <p class="mb-0">Supervised: <input id="{{ entry.id + 'Y' }}" type="checkbox" checked><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;<input id="{{ entry.id + 'N' }}" type="checkbox"><label for="{{ entry.id + 'N' }}">No</label>
-              &nbsp;&nbsp;# ofEmployees:&nbsp;{{ entry.supervised }}</p>
-            {% endif %}
+            <p class="mb-0">Supervised:
+              <input id="{{ entry.id + 'Y' }}" type="checkbox" {% if entry.supervised %}checked{% endif %}><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;
+              <input id="{{ entry.id + 'N' }}" type="checkbox" {% if !entry.supervised %}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
+              # ofEmployees:&nbsp;{{ entry.supervised }}</p>
           </div>
           <div class="col-3">
-            <p class="m-0 text-end">
-              {% if entry.startDate %}
+            <p class="m-0">
+              From: {% if entry.startDate %}
               {{ entry.startDate | slice: 5,2 }}/{{ entry.startDate | slice: 0,4 }}
               {% endif %}
-              {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-              -
-              {% endif %}
+            </p>
+            <p class="m-0">
               {% if entry.endDate %}
-              {% if entry.endDate != "Present" %}
+              To: {% if entry.endDate != "Present" %}
               {{ entry.endDate | slice: 5,2 }}/{{ entry.endDate | slice: 0,4 }}
               {% else %}
               {{ entry.endDate }}
               {% endif %}
               {% endif %}
             </p>
+            <p class="m-0"></p>
           </div>
         </div>
         {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.volunteer %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Activities</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.volunteer %}
-        <div class="row mb-3">
-          <div class="col-9">
-            <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
-            <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-            <p class="mb-0">{{ entry.summary }}</p>
-            {% if entry.highlights %}
-            <ul>
-              {% for highlight in entry.highlights %}
-              <li>{{ highlight }}</li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {% if entry.startDate %}
-              {{ entry.startDate | slice: 0,4 }}
-              {% endif %}
-              {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-              -
-              {% endif %}
-              {% if entry.endDate %}
-              {% if entry.endDate != "Present" %}
-              {{ entry.endDate | slice: 0,4 }}
-              {% else %}
-              {{ entry.endDate }}
-              {% endif %}
-              {% endif %}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.awards %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Awards</h1>
-      </div>
-
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.awards %}
-        <div class="row mb-3">
-          <div class="col-9">
-            <p class="mb-0">
-              <b>{{ entry.title }}</b>, {{ entry.awarder }}
-            </p>
-            <p class="mb-0">{{ entry.summary }}</p>
-          </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {{ entry.date}}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.references %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">References</h1>
-      </div>
-
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.references %}
-          {{ entry.name }}
-          {% if entry.reference and entry.reference.size > 0 %}
-          <em>{{ entry.reference }}</em>
-          {% endif %}
-          {% endfor %}
-        </p>
       </div>
     </div>
     {% endif %}
