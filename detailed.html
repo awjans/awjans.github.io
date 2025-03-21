@@ -29,8 +29,8 @@ layout: home
             </ul>
             {% endif %}
             <p class="mb-0">Supervised:
-              <input id="{{ entry.id + 'Y' }}" type="checkbox" {% if entry.supervised %}checked{% endif %}><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;
-              <input id="{{ entry.id + 'N' }}" type="checkbox" {% if !entry.supervised %}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
+              <input id="{{ entry.id + 'Y' }}" type="checkbox" {% if entry.supervised && entry.supervised > 0 %}checked{% endif %}><label for="{{ entry.id + 'Y' }}">Yes</label>&nbsp;
+              <input id="{{ entry.id + 'N' }}" type="checkbox" {% if entry.supervised && entry.supervised <= 0%}checked{% endif %}><label for="{{ entry.id + 'N' }}">No</label>&nbsp;&nbsp;
               # ofEmployees:&nbsp;{{ entry.supervised }}</p>
           </div>
           <div class="col-3">
@@ -52,6 +52,14 @@ layout: home
               <input id="{{ entry.id + 'FT' }}" type="checkbox" {% if entry.fullTime %}checked{% endif %}><label for="{{ entry.id + 'FT' }}">Full Time</label>&nbsp;
               <input id="{{ entry.id + 'PT' }}" type="checkbox" {% if entry.partTime %}checked{% endif %}><label for="{{ entry.id + 'PT' }}">Full Time</label>&nbsp;
               <input id="{{ entry.id + 'V' }}" type="checkbox" {% if entry.volunteer %}checked{% endif %}><label for="{{ entry.id + 'V' }}">Full Time</label>
+            </p>
+            <p class="m-0">
+              Reason for Leaving: {{ entry.reason }}
+            </p>
+            <p>
+              May we contact?
+              <input id="{{ entry.id + 'CY' }}" type="checkbox" {% if entry.contact %}checked{% endif %}><label for="{{ entry.id + 'CY' }}">Yes</label>&nbsp;
+              <input id="{{ entry.id + 'CN' }}" type="checkbox" {% if entry.contact %}checked{% endif %}><label for="{{ entry.id + 'CN' }}">No</label>&nbsp;
             </p>
           </div>
         </div>
