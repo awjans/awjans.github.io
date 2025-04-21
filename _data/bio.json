@@ -85,6 +85,7 @@
         "MS SQL Server",
         "Oracle RDBMS",
         "Oracle MySQL",
+        "PostgreSQL",
         "MongoDB"
       ]
     },
