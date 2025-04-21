@@ -85,7 +85,7 @@
         "MS SQL Server",
         "Oracle RDBMS",
         "Oracle MySQL",
-        "PostgreSQL",
+        "PostgresSQL",
         "MongoDB"
       ]
     },
@@ -177,12 +177,12 @@
       "avgHours": 45,
       "summary": "Delivered end-user technical support and server administration through effective communication, relationship-building, and problem-solving skills. Led IT department with up to 3 direct reports managing activities for 190 users. Controlled $6M budget, created and managed processes, and maintained compliance efforts. Executed identity and access management, IT strategy, and customer service functions for teams across 4 locations.",
       "highlights": [
-        "⮚ Achieved significant cost savings, including slashing capital expenditures by $100K by transitioning servers to the cloud. Saved $10K in licensing fees annually by moving to Microsoft 365 and reduced monthly expenses by $500 with a new voice carrier.",
-        "⮚ Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
-        "⮚ Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
-        "⮚ Facilitated continuous improvement and promoted process improvements by analyzing operations, applications, systems, hardware, and staff to identify areas for enhancement aligned with end-user needs.",
-        "⮚ Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
-        "⮚ Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
+        "Achieved significant cost savings, including slashing capital expenditures by $100K by transitioning servers to the cloud. Saved $10K in licensing fees annually by moving to Microsoft 365 and reduced monthly expenses by $500 with a new voice carrier.",
+        "Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
+        "Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
+        "Facilitated continuous improvement and promoted process improvements by analyzing operations, applications, systems, hardware, and staff to identify areas for enhancement aligned with end-user needs.",
+        "Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
+        "Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
       ],
       "supervised": 2,
       "reason": "My position was consolidated into the corporate office.",
@@ -201,7 +201,12 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Customize the Enterprise Resource Planning software per customer requirements.",
+      "summary": "Conceptualized innovative, customized solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
+      "highlights": [
+        "Lowered time to deploy by 90% by writing tools to capture customizations. Reviewed databases to identify areas of customization, developed procedures to update customization statements.",
+        "Developed materials and trained specialists in tools to ensure consistency and data integrity.",
+        "Improved customer satisfaction by 20% by implementing new processes to improve customer service and support."
+      ],
       "reason": "A job in Hawaii was offered.",
       "contact": true
     },
@@ -219,6 +224,9 @@
       "volunteer": false,
       "avgHours": 40,
       "summary": "Create software to automate the warehouse processes.",
+      "highlights": [
+        "Reduced time to pick by a factor of 10 by improving performance of SQL queries."
+      ],
       "reason": "I accomplished what I was hired to do.",
       "contact": true
     },
@@ -270,6 +278,9 @@
       "volunteer": true,
       "avgHours": 40,
       "summary": "Optimize backend code to enhance performance.",
+      "highlights": [
+        "Reduced time to load email by 80% by optimizing backend code."
+      ],
       "reason": "Company went bankrupt.",
       "contact": false
     },
@@ -304,6 +315,9 @@
       "volunteer": false,
       "avgHours": 40,
       "summary": "Create software to automate business processes.",
+      "highlights": [
+        "Created plugin for FoxPro to process credit cards over encrypted internet connection."
+      ],
       "reason": "Mutual understanding that the fit was not right.",
       "contact": true
     },
