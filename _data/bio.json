@@ -71,6 +71,7 @@
       "name": "Databases",
       "keywords": [
         "MS SQL Server",
+        "Oracle RDBMS",
         "Oracle MySQL",
         "MongoDB"
       ]
@@ -129,6 +130,15 @@
       ]
     },
     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2022-08-22",
+      "endDate": "2023-05-12",
+      "courses": [
+      ]
+    },
+    {
       "institution": "Mesa Community College, Mesa, AZ",
       "area": "Computer Science",
       "studyType": "A.S.",
@@ -152,12 +162,14 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 45,
-      "summary": "Manage IT for a company of approximately 170 employees",
+      "summary": "Delivered end-user technical support and server administration through effective communication, relationship-building, and problem-solving skills. Led IT department with up to 3 direct reports managing activities for 190 users. Controlled $6M budget, created and managed processes, and maintained compliance efforts. Executed identity and access management, IT strategy, and customer service functions for teams across 4 locations.",
       "highlights": [
-        "Assist employees with day-to-day computer issues",
-        "Write reports and run custom queries against the Enterprise Resource Planning system",
-        "Track computer inventory and assignments",
-        "Manage Active Directory and Group Policy"
+        "⮚ Achieved significant cost savings, including slashing capital expenditures by $100K by transitioning servers to the cloud. Saved $10K in licensing fees annually by moving to Microsoft 365 and reduced monthly expenses by $500 with a new voice carrier.",
+        "⮚ Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
+        "⮚ Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
+        "⮚ Facilitated continuous improvement and promoted process improvements by analyzing operations, applications, systems, hardware, and staff to identify areas for enhancement aligned with end-user needs.",
+        "⮚ Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
+        "⮚ Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
       ],
       "supervised": 2,
       "reason": "My position was consolidated into the corporate office.",
