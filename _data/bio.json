@@ -380,7 +380,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Managed and mentored a team of 12 software professionals, ensuring the successful delivery of client projects. Administered corporate network and servers, maintaining a secure and efficient IT infrastructure. Supported developers with innovative problem-solving, streamlining workflows, and implementing continuous integration. Established testing functionality to improve software quality and reliability.",
+      "summary": "Managed and mentored a team of 12 software professionals, ensuring the successful delivery of client projects. Administered corporate network and servers, maintaining a secure and efficient IT infrastructure. Supported developers with innovative problem-solving, streamlining workflows, and implementing continuous integration. Established testing functionality to improve software quality and reliability. Manage corporate and development servers and network.",
+      "highlights": [
+        "Used continuous integration and unit testing to streamline build process and deliver the project early."
+      ],
       "supervised": 12,
       "reason": "Relocated.",
       "contact": false
