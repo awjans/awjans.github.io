@@ -34,8 +34,9 @@ layout: home
           <p class="mb-3">{{ site.data.bio.basics.summary }}</p>
         {% endif %}
         {% if site.data.bio.basics.bullets %}
+        {% @bullets = site.data.bio.basics.bullets %}
         <table>
-          <% site.data.bio.basics.bullets.in_groups_of(3, false) do |row_bullets| %>
+          <% @bullets.in_groups_of(3, false) do |row_bullets| %>
           <tr>
             <% for bullet in row_bullets %>
             <td><%= bullet %></td>
