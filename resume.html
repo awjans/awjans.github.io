@@ -34,15 +34,19 @@ layout: home
           <p class="mb-3">{{ site.data.bio.basics.summary }}</p>
         {% endif %}
         {% if site.data.bio.basics.bullets %}
-        {% @bullets = site.data.bio.basics.bullets %}
         <table>
-          {% @bullets.in_group_of(3,false) do |row| %}
+          {% assign bullets = site.data.bio.basics.bullets %}
+          {% assign rows = bullets | size | divided_by: 3 %}
+          {% for i in (0..rows) %}
           <tr>
-            {% for cell in row %}
-            <td>{{ cell }}</td>
-            {% end %}
+            {% for j in (0..2) %}
+            {% assign index = i | times: 3 | plus: j %}
+            {% if index < bullets.size %}
+            <td>{{ bullets[index] }}</td>
+            {% endif %}
+            {% endfor %}
           </tr>
-          {% end %}
+          {% endfor %}
         </table>
         {% endif %}
       </div>
