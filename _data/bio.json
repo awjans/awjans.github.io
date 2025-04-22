@@ -261,7 +261,7 @@
       "avgHours": 40,
       "summary": "Create software to automate the warehouse processes.",
       "highlights": [
-        "Reduced time to pick by a factor of 10 by improving performance of SQL queries."
+        "Reduced time to pick and put by a factor of 10 by improving performance of SQL queries."
       ],
       "reason": "I accomplished what I was hired to do.",
       "contact": true
@@ -279,7 +279,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to extract and transform data.",
+      "summary": "Brought in to maintain Extract-Transform-Load (ETL) processes and critical Business reports.",
+      "highlights": [
+        "Created library of C# Attribute Classes that automated reading from Database into Objects."
+      ],
       "reason": "I accomplished what I was hired to do.",
       "contact": true
     },
@@ -297,6 +300,9 @@
       "volunteer": false,
       "avgHours": 40,
       "summary": "Create software to extract and transform data.",
+      "highlights": [
+        "Improved performance of Visual Basic for Applications (VBA) macros."
+      ],
       "reason": "My contract ended.",
       "contact": true
     },
@@ -333,7 +339,11 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to extract and transform data.",
+      "summary": "Brought in to research, document and solve performance issues with Extract-Transform-Load (ETL) processes and critical Business reports.",
+      "highlights": [
+        "Reduced time to load data from over night to under an hour.",
+        "Reduced time to generate reports by 90% by optimizing SQL queries."
+      ],
       "reason": "My disability prevented me from working.",
       "contact": true
     },
@@ -352,7 +362,7 @@
       "avgHours": 40,
       "summary": "Create software to automate business processes.",
       "highlights": [
-        "Created plugin for FoxPro to process credit cards over encrypted internet connection."
+        "Created COM plugin for FoxPro to process credit cards over encrypted internet connection. Manage selection of Enterprise Resource Planning (ERP) system to replace legacy system.",
       ],
       "reason": "Mutual understanding that the fit was not right.",
       "contact": true
@@ -388,7 +398,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to automate business processes.",
+      "summary": "Design and develop a smart-client application to enable representatives to track gifts to schools and professors and associate positive outcomes to justify activities.",
       "reason": "Contract ended.",
       "contact": false
     },
@@ -405,7 +415,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Create software to automate business processes.",
+      "summary": "Complete the next phase of features for the Knowledge Management System started while working for Luminant Worldwide.",
       "reason": "Project ended.",
       "contact": false
     },
@@ -422,7 +432,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Create software to automate business processes.",
+      "summary": "Create a Knowledge Management System for AT&T Wireless.",
       "reason": "Company was acquired by another company.",
       "contact": false
     },
@@ -457,7 +467,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Create software to automate business processes.",
+      "summary": "Design and develop a web-based solution to allow submission of attorney invoices to application service provided by company, while maintaining attorney-client privilege.",
       "reason": "I accomplished what I was hired to do.",
       "contact": false
     },
@@ -474,7 +484,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Implement an Enterprise Resource Planning system.",
+      "summary": "Develop tools and techniques to integrate legacy development environment with new technologies. Generate skeleton code based on interface input, output and mapping information to speed creation of conversion and interface applications. Supervise implementation and customization of the product for customers. Work with Product Development teams to report bugs and provide suggested solutions.",
       "reason": "I grew tired of the constant travel.",
       "contact": false
     },
@@ -491,7 +501,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Create software to automate business processes.",
+      "summary": "Develop front-end application for client/server project to connect Lawyers with the Courts. Create custom Lotus Notes add-on to automate dial-up access from within the application.",
       "reason": "The contract ended.",
       "contact": false
     },
@@ -508,7 +518,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Create software to automate business processes.",
+      "summary": "Re-engineer key legacy system to streamline maintenance of data and integration with peripheral systems. Develop process to allow data to be transferred to Lotus Notes, and the modified data to be submitted as a work order; enabling the Sales team to work in the field.",
       "reason": "The contract ended.",
       "contact": false
     },
