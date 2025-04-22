@@ -35,11 +35,11 @@ layout: home
         {% endif %}
         {% if site.data.bio.basics.bullets %}
         <table>
-          <% for site.data.bio.basics.bullets.in_groups_of(3, false) do |row_bullets| %>
+          {% site.data.bio.basics.bullets.in_groups_of(3) do |rows| %}
           <tr>
-            <% for bullet in row_bullets %>
-            <td><%= bullet %></td>
-            <% end %>
+            {% for cell in rows %}
+            <td>{%= cell %}</td>
+            {% end %}
           </tr>
           <% end %>
         </table>
