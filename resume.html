@@ -35,13 +35,13 @@ layout: home
         {% endif %}
         {% if site.data.bio.basics.bullets %}
         <table>
-          {% site.data.bio.basics.bullets.in_groups_of(3) do |rows| %}
+          {% for site.data.bio.basics.bullets.in_groups_of(3) do |rows| %}
           <tr>
             {% for cell in rows %}
             <td>{%= cell %}</td>
             {% end %}
           </tr>
-          <% end %>
+          {% end %}"
         </table>
         {% endif %}
       </div>
