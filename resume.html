@@ -49,7 +49,9 @@ layout: home
           <tr>
             {% for j in (0..2) %}
             {% assign index = i | times: 3 | plus: j %}
+            {% if index < bullets.size %}
             <td><ul><li>{{ bullets[index] }}</li></ul></td>
+            {% endif %}
             {% endfor %}
           </tr>
           {% endfor %}
