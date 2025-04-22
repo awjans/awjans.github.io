@@ -43,8 +43,7 @@ layout: home
       <div class="col-lg-9">
         {% if site.data.bio.basics.bullets %}
         <table>
-          {% assign bullets = site.data.bio.basics.bullets %}
-          {% assign rows = bullets | size | divided_by: 3 %}
+          {% assign rows = site.data.bio.basics.bullets | size | divided_by: 3 %}
           {% for i in (0..rows) %}
           <tr>
             {% for j in (0..2) %}
@@ -59,6 +58,20 @@ layout: home
         {% endif %}
       </div>
     </div>
+    {% if site.data.bio.basics.highlights %}
+    <div class="row pt-4">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Career Highlights</h1>
+      </div>
+      <div class="col-lg-9">
+          <ul>
+            {% for highlight in site.data.bio.basics.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+      </div>
+    </div>
+    {% endif %}
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Interests</h1>
