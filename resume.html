@@ -13,7 +13,7 @@ layout: home
     </div>
 
     <div class="row">
-      <div class="col-lg-1">
+      <div class="col-lg-3">
         {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
         {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
         <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
@@ -29,9 +29,9 @@ layout: home
           <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
         {% endfor %}
       </div>
-      <div class="col-lg-10">
+      <div class="col-lg-6">
         {% if site.data.bio.basics.summary %}
-          <p class="mb-1">{{ site.data.bio.basics.summary }}</p>
+          <p class="mb-3">{{ site.data.bio.basics.summary }}</p>
         {% endif %}
       </div>
       <div class="col-lg-1">
