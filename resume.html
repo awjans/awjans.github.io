@@ -35,7 +35,7 @@ layout: home
         {% endif %}
         {% if site.data.bio.basics.bullets %}
         <table>
-          {% for site.data.bio.basics.bullets.in_groups_of(3) do |rows| %}
+          {% site.data.bio.basics.bullets.in_groups_of(3) do |rows| %}
           <tr>
             {% for cell in rows %}
             <td>{%= cell %}</td>
