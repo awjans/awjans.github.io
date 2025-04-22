@@ -33,6 +33,14 @@ layout: home
         {% if site.data.bio.basics.summary %}
           <p class="mb-3">{{ site.data.bio.basics.summary }}</p>
         {% endif %}
+      </div>
+      <div class="col-lg-3">
+        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-9">
         {% if site.data.bio.basics.bullets %}
         <table>
           {% assign bullets = site.data.bio.basics.bullets %}
@@ -50,11 +58,7 @@ layout: home
         </table>
         {% endif %}
       </div>
-      <div class="col-lg-3">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-      </div>
     </div>
-
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Interests</h1>
