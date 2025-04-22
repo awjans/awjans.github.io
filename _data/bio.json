@@ -6,7 +6,7 @@
     "email": "awjans@hawaii.edu",
     "website": "https://awjans.github.io",
     "summary": "Results-oriented IT executive with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity. Align technical solutions, business objectives, and teams to achieve operational excellence, scalable solutions, and efficiency. Deliver technical support, software development, modeling, networking, and portfolio management.",
-    "highlights": [
+    "bullets": [
       "Data Privacy",
       "Vendor Relations",
       "Resource Allocation",
@@ -22,6 +22,12 @@
       "Stakeholder Management",
       "Data-driven decision-making",
       "Team Leadership & Development"
+    ],
+    "highlights": [
+      "Educated American Electric Company LLC teams on CMMC and NIST security requirements to strengthen cybersecurity.",
+      "Collaborated cross-functionally over career to drive change, improvements, and risk mitigation efforts to position companies for growth and success.",
+      "Analyzed operations at all roles to create efficiencies, cost savings, and improvements.",
+      "Directed business and digital transformation efforts throughout career, enabling automation, streamlined operations, and operational enhancements to strengthen companies."
     ],
     "location": {
       "address": "4820 E Ekolu Way Apt A",
@@ -92,6 +98,7 @@
         "React.js",
         "BootStrap",
         "jQuery",
+        "Laravel",
         "Meteor",
         "Haystack AI"
       ]
@@ -109,9 +116,10 @@
     {
       "name": "Toolsets",
       "keywords": [
-        "Git/GitHub",
-        "g++",
-        "javac",
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "VS Code",
+        "git/GitHub",
         "make"
       ]
     },
