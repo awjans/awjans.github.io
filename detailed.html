@@ -33,7 +33,7 @@ layout: home
             </ul>
             {% endif %}
             <p class="mb-0">Supervised:
-              {% if entry.supervised > 0 %}
+              {% if entry.supervised && entry.supervised > 0 %}
               {% assign supervisedY = "checked" %}
               {% else %}
               {% assign supervisedN = "checked" %}
@@ -58,12 +58,12 @@ layout: home
               {% endif %}
             </p>
             <p class="m-0">
-              {% if entry.fullTime == true %}
+              {% if entry.fullTime && entry.fullTime == true %}
               {% assign fullTime = "checked" %}
               {% else %}
               {% assign partTime = "checked" %}
               {% endif %}
-              {% if entry.volunteer == true %}
+              {% if entry.volunteer && entry.volunteer == true %}
               {% assign volunteer = "checked" %}
               {% endif %}
               <input id="{{ entry.id }}FT" type="radio" {{ fullTime }}><label for="{{ entry.id }}FT">Full Time</label>&nbsp;
@@ -76,7 +76,7 @@ layout: home
             </p>
             <p>
               May we contact?
-              {% if entry.contact == true %}
+              {% if entry.contact && entry.contact == true %}
               {% assign contactY = "checked" %}
               {% else %}
               {% assign contactN = "checked" %}
