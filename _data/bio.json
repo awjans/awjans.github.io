@@ -203,6 +203,7 @@
   ],
   "work": [
     {
+      "id": "aec",
       "company": "American Electric Company, LLC",
       "address": "799 Kahelu Ave, Mililani, HI 96789",
       "phone": "808.848.0751",
@@ -229,6 +230,7 @@
       "contact": true
     },
     {
+      "id": "vcs",
       "company": "Viewpoint Construction Software",
       "address": "5665 Meadows Road, Suite 400, Lake Oswego, OR, 97035",
       "phone": "971.255.4800",
@@ -251,6 +253,7 @@
       "contact": true
     },
     {
+      "id": "ctdi",
       "company": "Communications Test Design, Inc.",
       "address": "22638 NE Townsend Way, Fairview, OR 97024",
       "phone": "503.405.3515",
@@ -271,6 +274,7 @@
       "contact": true
     },
     {
+      "id": "vsc",
       "company": "Vector Software Corporation",
       "address": "5 Third Street, San Francisco, CA 94103",
       "phone": "408.450.5300",
@@ -291,6 +295,7 @@
       "contact": true
     },
     {
+      "id": "nweisolap",
       "company": "Northwest EIS OLAP",
       "address": "404 East 15th Street, Suite 9, Vancouver, WA 98663",
       "phone": "360.905.7934",
@@ -311,6 +316,7 @@
       "contact": true
     },
     {
+      "id": "ph",
       "company": "PrivacyHarbor Inc",
       "address": "Vancouver, WA",
       "phone": "No longer exists",
@@ -331,6 +337,7 @@
       "contact": false
     },
     {
+      "id": "vsc2",
       "company": "Vector Software Corporation",
       "address": "5 Third Street, San Francisco, CA 94103",
       "phone": "408.450.5300",
@@ -352,6 +359,7 @@
       "contact": true
     },
     {
+      "id": "usdigital",
       "company": "US Digital",
       "address": "1400 NE 136th Avenue, Vancouver, Washington 98684",
       "phone": "360.260.2468",
@@ -372,6 +380,7 @@
       "contact": true
     },
     {
+      "id": "engenex",
       "company": "Engenex Technologies, LLC",
       "address": "Bellevue, WA",
       "phone": "No longer exists",
@@ -393,6 +402,7 @@
       "contact": false
     },
     {
+      "id": "excell",
       "company": "Excell Data",
       "address": "Redmond, WA",
       "phone": "No longer exists",
@@ -410,6 +420,7 @@
       "contact": false
     },
     {
+      "id": "sbi",
       "company": "SBI.Razorfish",
       "address": "Seattle, WA",
       "phone": "No longer exists",
@@ -427,6 +438,7 @@
       "contact": false
     },
     {
+      "id": "luminant",
       "company": "Luminant Worldwide",
       "address": "Seattle, WA",
       "phone": "No longer exists",
@@ -444,6 +456,7 @@
       "contact": false
     },
     {
+      "id": "vanteon",
       "company": "Vanteon",
       "address": "Redmond, WA",
       "phone": "No longer exists",
@@ -462,6 +475,7 @@
       "contact": false
     },
     {
+      "id": "elf",
       "company": "ELF Technologies Inc",
       "address": "Mercer Island, WA",
       "phone": "No longer exists",
@@ -479,6 +493,7 @@
       "contact": false
     },
     {
+      "id": "hksystems",
       "company": "HK Systems",
       "address": "Seattle, WA",
       "phone": "No longer exists",
@@ -496,6 +511,7 @@
       "contact": false
     },
     {
+      "id": "cara",
       "company": "Cara Corporation",
       "address": "Phoenix, AZ",
       "phone": "No longer exists",
@@ -513,6 +529,7 @@
       "contact": false
     },
     {
+      "id": "maxim",
       "company": "Maxim Group",
       "address": "Detroit, MI",
       "phone": "No longer exists",
@@ -530,6 +547,7 @@
       "contact": false
     },
     {
+      "id": "rankin",
       "company": "Rankin Technology Group",
       "address": "Phoenix, AZ",
       "phone": "No longer exists",
