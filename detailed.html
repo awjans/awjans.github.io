@@ -29,9 +29,9 @@ layout: home
               {% assign supervisedY = "" %}
               {% assign supervisedN = "" %}
               {% if entry.supervised.present? %}
-                {% supervisedY = "checked" %}
+                {% assign supervisedY = "checked" %}
               {% else %}
-                {% supervisedN = "checked" %}
+                {% assign supervisedN = "checked" %}
               {% endif %}
               <input id="{{ entry.id }}Y" type="checkbox" {{ supervisedY }}><label for="{{ entry.id }}Y">Yes</label>&nbsp;
               <input id="{{ entry.id }}N" type="checkbox" {{ supervisedN }}><label for="{{ entry.id }}N">No</label>&nbsp;
