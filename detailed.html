@@ -26,8 +26,6 @@ layout: home
             </ul>
             {% endif %}
             <p class="mb-0">Supervised:
-              {% assign supervisedY = "" %}
-              {% assign supervisedN = "" %}
               {% if !entry.supervised.blank? %}
                 {% assign supervisedY = "checked" %}
               {% else %}
