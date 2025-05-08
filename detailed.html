@@ -9,6 +9,13 @@ layout: home
     <div class="row pt-4 align-items-start">
       <div class="col-lg-9">
         {% for entry in site.data.bio.work %}
+        {% assign supervisedY = "" %}
+        {% assign supervisedN = "" %}
+        {% assign fullTime = "" %}
+        {% assign partTime = "" %}
+        {% assign volunteer = "" %}
+        {% assign contactY = "" %}
+        {% assign contactN = "" %}
         <div class="row mb-3">
           <div class="col-6">
             <p class="mb-0"><b>Company: {{ entry.company }}</b></p>
