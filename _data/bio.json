@@ -142,7 +142,9 @@
       "startDate": "2024-08-26",
       "endDate": "2026",
       "courses": [
-        "ICS 690: Seminar in Computer Science"
+        "ICS 690: Seminar in Computer Science",
+        "ICS 691G: Special Topics in Computer Science",
+        "ICS 691G: Special Topics in Computer Science"
       ]
     },
     {
@@ -162,8 +164,10 @@
         "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
         "ICS 355: Security and Trust I",
+        "ICS 414: Software Engineering II",
         "ICS 427: Software Quality Assurance",
         "ICS 451: Data Networks",
+        "ICS 466: Design for Mobile Devices",
         "ICS 496: Capstone Project",
         "MATH 372: Probability and Statistics"
       ]
