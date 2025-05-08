@@ -26,8 +26,11 @@ layout: home
             </ul>
             {% endif %}
             <p class="mb-0">Supervised:
-              <input id="{{ entry.id }}Y" type="checkbox" {% if entry.supervised.present? %}checked{% endif %}><label for="{{ entry.id }}Y">Yes</label>&nbsp;
-              <input id="{{ entry.id }}N" type="checkbox" {% if entry.supervised.blank? %}checked{% endif %}><label for="{{ entry.id }}N">No</label>&nbsp;
+              {% assign supervisedY = "" %}
+              {% assign supervisedN = "" %}
+              {% if entry.supervised.present? then supervisedY = "checked" %}{% else supervisedN = "checked" %}{% endif %}
+              <input id="{{ entry.id }}Y" type="checkbox" {{ supervisedY }}><label for="{{ entry.id }}Y">Yes</label>&nbsp;
+              <input id="{{ entry.id }}N" type="checkbox" {{ supervisedN }}><label for="{{ entry.id }}N">No</label>&nbsp;
               # of Employees:&nbsp;{{ entry.supervised }}</p>
           </div>
           <div class="col-6">
