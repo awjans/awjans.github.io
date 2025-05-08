@@ -28,7 +28,7 @@ layout: home
             <p class="mb-0">Supervised:
               {% assign supervisedY = "" %}
               {% assign supervisedN = "" %}
-              {% if entry.supervised.present? %}
+              {% if !entry.supervised.blank? %}
                 {% assign supervisedY = "checked" %}
               {% else %}
                 {% assign supervisedN = "checked" %}
