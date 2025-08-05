@@ -29,4 +29,4 @@ highlights how a dual-model system that calculates similarity and dissimilarity 
 AI-driven traceability solutions to enhance quality assurance, mitigate risks, and streamline software development in complex, high-risk environments suitable for immediate integration into existing assurance processes.
 
 
-Source: [awjans/FR-NFR-Trace-Assurance](https://github.com/awjans/FR-NFR-Trace-Assurance)
+Source: [dport96/FR-NFR-Trace-Assurance](https://github.com/dport96/FR-NFR-Trace-Assurance)
