@@ -5,7 +5,7 @@
     "picture": "img/profile.jpg",
     "email": "awjans@hawaii.edu",
     "website": "https://andrea.jans.org",
-    "summary": "Bachelor's and Master's (BAM) Computer Science student at University of Hawaii at Manoa. Graduating in Fall 2025 with Bachelor's degree, and Fall 2026 with Master's degree.<br /><br />Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity. Align technical solutions, business objectives, and teams to achieve operational excellence, scalable solutions, and efficiency. Deliver technical support, software development, modeling, networking, and portfolio management.",
+    "summary": "Bachelor's and Master's (BAM) Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Fall 2025 with Bachelor's degree, and Fall 2026 with Master's degree.<br /><br />Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity. Align technical solutions, business objectives, and teams to achieve operational excellence, scalable solutions, and efficiency. Deliver technical support, software development, modeling, networking, and portfolio management.",
     "bullets": [
       "Data Privacy",
       "Vendor Relations",
@@ -177,18 +177,7 @@
       "studyType": "A.S.",
       "startDate": "2022-08-22",
       "endDate": "2023-05-12",
-      "courses": [
-        "ANTH 152: Culture and Humanity",
-        "BIOL 124: Environment & Ecology",
-        "CHEM 161: General Chemistry I",
-        "HWST 107: Hawaii: Center of the Pacific",
-        "ICS 111: Introduction to Computer Science I",
-        "ICS 141: Discrete Math for Computer Science I",
-        "ICS 170: Ethics for a Digital World",
-        "ICS 211: Introduction to Computer Science II",
-        "ICS 212: Program Structure",
-        "ICS 241: Discrete Math for Computer Science II"
-      ]
+      "courses": []
     },
     {
       "institution": "Mesa Community College, Mesa, AZ",
