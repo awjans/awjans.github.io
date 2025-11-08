@@ -136,19 +136,18 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2024-08-26",
       "endDate": "2026",
       "courses": [
         "ICS 690: Seminar in Computer Science",
-        "ICS 691G: Special Topics in Computer Science",
-        "ICS 691G: Special Topics in Computer Science"
+        "ICS 691G: Special Topics in Computer Science - Open Source Software Development"
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
@@ -197,11 +196,69 @@
       "studyType": "A.S.",
       "startDate": "1989",
       "endDate": "1992",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
+    {
+      "id": "ics101ta",
+      "company": "University of Hawaiʻi at Mānoa",
+      "address": "2500 Campus Rd, Honolulu, HI 96822",
+      "phone": "808.956.8111",
+      "website": "https://www.hawaii.edu",
+      "position": "Teaching Assistant",
+      "supervisor": "Dr. Michael-Brian Ogawa; Professor",
+      "startDate": "2025-08-25",
+      "endDate": "Present",
+      "fullTime": false,
+      "partTime": true,
+      "volunteer": false,
+      "avgHours": 10,
+      "summary": "Assisted in teaching ICS 101: Tools for the Information World, including preparing materials, grading assignments, and providing support to students.",
+      "highlights": [
+        "Developed engaging instructional materials that improved student understanding of key concepts.",
+        "Provided one-on-one support to students during office hours, resulting in increased student satisfaction."
+      ],
+      "supervised": 0,
+      "reason": "N/A",
+      "contact": true
+    },
+    {
+      "id": "eden",
+      "company": "Sahana Foundation",
+      "address": "Covina, CA",
+      "phone": "N/A",
+      "website": "https://sahanafoundation.org",
+      "position": "Contributor",
+      "supervisor": "Dominic König; Project Lead",
+      "startDate": "2025-11-01",
+      "endDate": "Present",
+      "fullTime": false,
+      "partTime": true,
+      "volunteer": true,
+      "avgHours": 10,
+      "summary": "Contribute software development expertise to the Sahana Foundation Eden Project.",
+      "reason": "N/A",
+      "contact": true
+    },
+    {
+      "id": "clc",
+      "company": "Christ Lutheran Church",
+      "address": "95-1361 Meheula Parkway, Mililani, HI 96789",
+      "phone": "808.623.9229",
+      "website": "https://clcmililani.org",
+      "position": "Member",
+      "supervisor": "Rev. Keith Wolter; Pastor",
+      "startDate": "2016-07-01",
+      "endDate": "Present",
+      "fullTime": false,
+      "partTime": true,
+      "volunteer": true,
+      "avgHours": 1.5,
+      "summary": "Assist with Audio/Visual needs for church services and events. Provide technical support for church office staff.",
+      "reason": "N/A",
+      "contact": true
+    },
     {
       "id": "aec",
       "company": "American Electric Company, LLC",
@@ -569,19 +626,19 @@
     {
       "title": "W. Wesley and Hiromi Peterson Student Support Endowment",
       "date": "2025-05-15",
-      "awarder": "University of Hawaii at Manoa",
+      "awarder": "University of Hawaiʻi at Mānoa",
       "summary": "Encouraging and recognizing excellence in research and/or scholarship."
     },
     {
       "title": "DESCARTES Fellowship",
       "date": "2024-04-17",
-      "awarder": "University of Hawaii at Manoa, NSF STEM Research and Traineeship Grant",
+      "awarder": "University of Hawaiʻi at Mānoa, NSF STEM Research and Traineeship Grant",
       "summary": "Data in Engineering and Society: Converging Applications, Research, and Training Enhancements for Students."
     },
     {
       "title": "Transfer Merit Scholarship",
       "date": "2023-03-23",
-      "awarder": "University of Hawaii at Manoa",
+      "awarder": "University of Hawaiʻi at Mānoa",
       "summary": "Scholarships awarded to incoming transfer students that show exceptional merit."
     },
     {
