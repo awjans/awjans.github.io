@@ -11,7 +11,7 @@ labels:
 - Team Work
 ---
 
-![ICS 414](img/ics414/ics414.jpg "ICS 414: Software Engineering II")
+![ICS 414](/img/ics414/ics414.jpg "ICS 414: Software Engineering II")
 
 # Reflections on Software Engineering II
 
