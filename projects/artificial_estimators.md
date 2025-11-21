@@ -10,7 +10,7 @@ labels:
   - Haystack
   - Hugging Face
   - LLM
-summary: "A Study in Training Systems for Expert Estimating Software Development Task Efforts."
+summary: "A Study in Training Systems for Estimating Software Development Task Efforts."
 ---
 
 ![Code](../img/artificial_estimators/artificial_estimators-banner.png "Artificial Estimators")
