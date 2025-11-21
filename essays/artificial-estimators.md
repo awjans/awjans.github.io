@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: img/artificial_estimators/artificial_estimators-square.png
-title: "Artificial Estimators"
+title: "Artificial Estimators Proposal"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-19
 published: true
@@ -10,6 +10,8 @@ labels:
 - Software Engineering
 - Artificial Intelligence
 ---
+
+![Code](../img/artificial_estimators/artificial_estimators-banner.png "Artificial Estimators")
 
 Throughout the history of programming, engineers have grappled with estimating the effort needed to develop software. Achieving precision, accuracy, and confidence in these estimates has proven challenging, often resulting in either overestimating or
 underestimating project timelines and costs. Software engineers' implicit and explicit biases play a significant role, causing them to miss the mark frequently.
@@ -22,3 +24,4 @@ This study delves into the possibility of training a machine learning (ML) syste
 in software engineering. This study will source historical data from companies and organizations that keep records of their estimations and resulting actuals. Historical data consisting of functional specifications with estimated and actual time
 train the expert system and data not used in training tests the expert system. This study will compare the resulting estimates against the original data and analyze for precision, accuracy, and confidence level.
 
+Proposal: [Artificial Estimators](../img/artificial_estimators/Artificial_Estimators_Proposal.pdf)
