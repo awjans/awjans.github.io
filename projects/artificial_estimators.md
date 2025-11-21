@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/artificial_estimators/artificial_estimators-square.png
 title: "Artificial Estimators"
-date: 2024-05-01
+date: 2025-11-10
 published: true
 labels:
   - Python

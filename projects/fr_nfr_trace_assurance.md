@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/artificial_estimators/artificial_estimators-square.png
+image: img/fr_nfr_trace/fr_nfr_trace-square.png
 title: "FR-NFR Trace Assurance"
 date: 2025-02-01
 published: true
@@ -15,7 +15,7 @@ labels:
 summary: "A a research project with Dr. Port on using an LLM to generate the requirements traceability matrix (RTM)."
 ---
 
-![Code](../img/artificial_estimators/artificial_estimators-banner.png "FR NFR Trace Assurance")
+![Code](../img/fr_nfr_trace/fr_nfr_trace-banner.png "FR NFR Trace Assurance")
 
 Requirements assurance increases confidence in software engineering decision-making through independent audits and reviews. One critical and effort-intensive activity is the assurance of the requirements traceability matrix (RTM), a labor-intensive
 and error-prone task that does not scale well with system size. In this, determining the correctness and completeness of the many-to-many relationships between functional requirements (FR) and non-functional requirements (NFRs) is a particularly
