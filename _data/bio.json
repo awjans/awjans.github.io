@@ -138,17 +138,6 @@
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
       "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2024-08-26",
-      "endDate": "2027-05-15",
-      "courses": [
-        "ICS 690: Seminar in Computer Science",
-        "ICS 691G: Special Topics in Computer Science - Open Source Software Development"
-      ]
-    },
-    {
-      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
-      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "2025-12-20",
@@ -169,6 +158,17 @@
         "ICS 466: Design for Mobile Devices",
         "ICS 496: Capstone Project",
         "MATH 372: Probability and Statistics"
+      ]
+    },
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08-26",
+      "endDate": "2027-05-15",
+      "courses": [
+        "ICS 690: Seminar in Computer Science",
+        "ICS 691G: Special Topics in Computer Science - Open Source Software Development"
       ]
     }
   ],
