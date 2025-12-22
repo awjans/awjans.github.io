@@ -215,24 +215,6 @@
       "contact": true
     },
     {
-      "id": "clc",
-      "company": "Christ Lutheran Church",
-      "address": "95-1361 Meheula Parkway, Mililani, HI 96789",
-      "phone": "808.623.9229",
-      "website": "https://clcmililani.org",
-      "position": "Member",
-      "supervisor": "Rev. Keith Wolter; Pastor",
-      "startDate": "2016-07-01",
-      "endDate": "Present",
-      "fullTime": false,
-      "partTime": true,
-      "volunteer": true,
-      "avgHours": 1.5,
-      "summary": "Assist with Audio/Visual needs for church services and events. Provide technical support for church office staff.",
-      "reason": "N/A",
-      "contact": true
-    },
-    {
       "id": "ics101ta",
       "company": "University of Hawaiʻi at Mānoa",
       "address": "2500 Campus Rd, Honolulu, HI 96822",
