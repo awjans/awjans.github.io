@@ -4,7 +4,8 @@ type: project
 image: img/artificial_estimators/artificial_estimators-square.png
 title: "Artificial Estimators"
 date: 2025-11-10
-published: true
+published: false
+github: "artificialexperts/estimators"
 labels:
   - Python
   - Haystack
