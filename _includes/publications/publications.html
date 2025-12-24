@@ -16,7 +16,13 @@
         <div class="col-md-6">
           <div class="card h-100">
             <div class="card-body d-flex flex-column">
-              <h5 class="card-title">{{ publication.title }}</h5>
+              <h5 class="card-title">
+                {% if publication.website %}
+                  <a href="{{ publication.website }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>
+                {% else %}
+                  {{ publication.title }}
+                {% endif %}
+              </h5>
               <h6 class="card-subtitle mb-2 text-muted">
                 {% if publication.authors %}
                   {{ publication.authors | join: ", " }}.
@@ -37,10 +43,6 @@
                   , {{ publication.year }}.
                 {% endif %}
               </h6>
-              <p class="card-text">{{ publication.summary }}</p>
-              {% if publication.website %}
-                <a href="{{ publication.website }}" class="mt-auto btn btn-primary" target="_blank" rel="noopener">Read More</a>
-              {% endif %}
             </div>
           </div>
         </div>
