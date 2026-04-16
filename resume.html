@@ -117,29 +117,15 @@ layout: home
       <div class="col-lg-9">
         {% for entry in site.data.bio.work %}
           <div class="row mb-3">
-            <div class="col-8">
-              <h3 class="mb-0">{{ entry.position }}</h3>
-              <h4>
+            <div class="col-12">
+              <h4 class="mb-0">{{ entry.position }}</h4>
+              <h5 class="mb-0">
                 {{ entry.company }}
                 {% if entry.address and entry.address != '' %}
                 | {{ entry.address }}
                 {% endif %}
-              </h4>
-              {% assign end_year = entry.endDate | slice: 0,4 | plus: 0 %}
-              {% if entry.endDate == "Present" or end_year >= cutoff_year %}
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul>
-                  {% for highlight in entry.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-              {% endif %}
-            </div>
-            <div class="col-4">
-              <p class="m-0 text-end">
+              </h5>
+              <h6 class="m-0">
                 {% if entry.startDate %}
                   {% assign month_num = entry.startDate | slice: 5,2 %}
                   {% assign month_index = month_num | plus: 0 | minus: 1 %}
@@ -157,7 +143,19 @@ layout: home
                   {{ entry.endDate }}
                 {% endif %}
               {% endif %}
-              </p>
+              </h6>
+              {% assign end_year = entry.endDate | slice: 0,4 | plus: 0 %}
+              {% if entry.endDate == "Present" or end_year >= cutoff_year %}
+              <!-- p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p -->
+              <p class="mb-0">{{ entry.summary }}</p>
+              {% if entry.highlights %}
+                <ul>
+                  {% for highlight in entry.highlights %}
+                    <li>{{ highlight }}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+              {% endif %}
             </div>
           </div>
         {% endfor %}
