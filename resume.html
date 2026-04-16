@@ -117,7 +117,7 @@ layout: home
       <div class="col-lg-9">
         {% for entry in site.data.bio.work %}
           <div class="row mb-3">
-            <div class="col-9">
+            <div class="col-8">
               <h3 class="mb-0">{{ entry.position }}</h3>
               <h4>
                 {{ entry.company }}
@@ -138,7 +138,7 @@ layout: home
               {% endif %}
               {% endif %}
             </div>
-            <div class="col-3">
+            <div class="col-4">
               <p class="m-0 text-end">
                 {% if entry.startDate %}
                   {% assign month_num = entry.startDate | slice: 5,2 %}
