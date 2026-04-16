@@ -7,12 +7,10 @@
     "website": "https://andrea.jans.org",
     "summary": "Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drives automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity. Aligns technical solutions, business objectives, and teams to achieve operational excellence, scalable solutions, and efficiency. Delivers technical support, software development, modeling, networking, and portfolio management.",
     "bullets": [
-      "Data Privacy",
+      "Team Leadership & Development",
       "Vendor Relations",
       "Resource Allocation",
       "Program Management",
-      "Performance Management",
-      "Testing",
       "Budgeting",
       "Risk Management",
       "Technical Infrastructure",
@@ -20,8 +18,7 @@
       "Project Management",
       "Change Management",
       "Stakeholder Management",
-      "Data-driven decision-making",
-      "Team Leadership & Development"
+      "Data Privacy"
     ],
     "highlights": [
       "Educated American Electric Company LLC teams on CMMC and NIST security requirements to strengthen cybersecurity.",
@@ -107,7 +104,7 @@
         "MS SQL Server",
         "Oracle RDBMS",
         "Oracle MySQL",
-        "PostgresSQL",
+        "PostgreSQL",
         "MongoDB"
       ]
     },
@@ -183,7 +180,7 @@
         "Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
       ],
       "supervised": 2,
-      "reason": "My position was consolidated into the corporate office.",
+      "reason": "Consolidated into the corporate.",
       "contact": true
     },
     {
@@ -200,13 +197,22 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Conceptualized innovative, customized solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
+      "summary": "Conceptualize innovative, custom solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
       "highlights": [
-        "Lowered time to deploy by 90% by writing tools to capture customizations. Reviewed databases to identify areas of customization, developed procedures to update customization statements.",
-        "Developed materials and trained specialists in tools to ensure consistency and data integrity.",
-        "Improved customer satisfaction by 80% by implementing new processes to improve customer service and support."
+        "Lower time to deploy by 90% by writing tools to capture customizations.",
+        "Develop materials and trained specialists in tools to ensure consistency and data integrity.",
+        "Improve customer satisfaction by 80% by implementing new processes to improve customer service and support."
       ],
-      "reason": "A job in Hawaii was offered.",
+      "skills": [
+        "C",
+        "C++",
+        "C#",
+        "T-SQL",
+        "Windows",
+        "MS SQL Server",
+        "MS Office"
+      ],
+      "reason": "Relocated",
       "contact": true
     },
     {
@@ -225,9 +231,17 @@
       "avgHours": 40,
       "summary": "Create software to automate the warehouse processes.",
       "highlights": [
-        "Reduced time to pick and put by a factor of 10 by improving performance of SQL queries."
+        "Reduce time to pick and put by a factor of 10 by improving performance of SQL queries."
       ],
-      "reason": "I accomplished what I was hired to do.",
+      "skills": [
+        "C",
+        "C++",
+        "C#",
+        "PL/SQL",
+        "Windows",
+        "MS Office"
+      ],
+      "reason": "Project ended.",
       "contact": true
     },
     {
@@ -246,7 +260,7 @@
       "avgHours": 40,
       "summary": "Maintain Extract-Transform-Load (ETL) processes and critical Business reports.",
       "highlights": [
-        "Created library of C# Attribute Classes that automated reading from Database into Objects."
+        "Create library of C# Attribute Classes that automate reading from Database into Objects."
       ],
       "skills": [
         "C",
@@ -277,7 +291,15 @@
       "avgHours": 40,
       "summary": "Create software to extract and transform data using MS Excel.",
       "highlights": [
-        "Improve performance of Visual Basic for Applications (VBA) macros."
+        "Improve performance of Visual Basic for Applications (VBA) macros.",
+        "Tune SQL Queries to further enhance performance."
+      ],
+      "skills": [
+        "VBA",
+        "PL/SQL",
+        "Unix",
+        "Windows",
+        "MS Office"
       ],
       "reason": "Contract ended.",
       "contact": true
