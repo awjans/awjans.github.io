@@ -118,7 +118,13 @@ layout: home
         {% for entry in site.data.bio.work %}
           <div class="row mb-3">
             <div class="col-9">
-              <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+              <h3 class="mb-0">{{ entry.position }}</h3>
+              <h4>
+                {{ entry.company }}
+                {% if entry.address and entry.address != '' %}
+                | {{ entry.address }}
+                {% endif %}
+              </h4>
               {% assign end_year = entry.endDate | slice: 0,4 | plus: 0 %}
               {% if entry.endDate == "Present" or end_year >= cutoff_year %}
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
@@ -140,7 +146,7 @@ layout: home
                   {{ month_names[month_index] }} {{ entry.startDate | slice: 0,4 }}
                 {% endif %}
                 {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-                -
+                to
                 {% endif %}
                 {% if entry.endDate %}
                 {% if entry.endDate != "Present" %}
