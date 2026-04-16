@@ -219,9 +219,7 @@
       "highlights": [
         "Cut capital expenditures by $100K through cloud server migration, reduced licensing costs by $10K annually by adopting Microsoft 365, and lowered monthly telecom expenses by $500.",
         "Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
-        "Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
-        "Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
-        "Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
+        "Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability."
       ],
       "supervised": 2,
       "reason": "Consolidated into corporate.",
