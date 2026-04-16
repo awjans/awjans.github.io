@@ -137,7 +137,7 @@
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
-      "endDate": "2025-12-20",
+      "endDate": "2025-12-19",
       "courses": [
         "HON 333: Experiential Scholarly Engagement",
         "HON 494: Honors Workshop",
@@ -204,7 +204,7 @@
       "highlights": [
         "Lowered time to deploy by 90% by writing tools to capture customizations. Reviewed databases to identify areas of customization, developed procedures to update customization statements.",
         "Developed materials and trained specialists in tools to ensure consistency and data integrity.",
-        "Improved customer satisfaction by 20% by implementing new processes to improve customer service and support."
+        "Improved customer satisfaction by 80% by implementing new processes to improve customer service and support."
       ],
       "reason": "A job in Hawaii was offered.",
       "contact": true
@@ -309,8 +309,18 @@
       "avgHours": 40,
       "summary": "Brought in to research, document and solve performance issues with Extract-Transform-Load (ETL) processes and critical Business reports.",
       "highlights": [
-        "Reduced time to load data from over night to under an hour.",
-        "Reduced time to generate reports by 90% by optimizing SQL queries."
+        "Reduce time to load data from over night to under an hour.",
+        "Decrease time to generate reports by 90% by optimizing SQL queries."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "C#",
+        "PL/SQL",
+        "Crystal Reports",
+        "Unix",
+        "Windows",
+        "MS Office"
       ],
       "reason": "My disability prevented me from working.",
       "contact": true
@@ -331,7 +341,16 @@
       "avgHours": 40,
       "summary": "Create software to automate business processes.",
       "highlights": [
-        "Created COM plugin for FoxPro to process credit cards over encrypted internet connection. Manage selection of Enterprise Resource Planning (ERP) system to replace legacy system."
+        "Create COM plugin for FoxPro to process credit cards over encrypted internet connection.",
+        "Manage selection of Enterprise Resource Planning (ERP) system to replace legacy system."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "C#",
+        "Windows",
+        "MS Office",
+        "FoxPro"
       ],
       "reason": "Mutual understanding that the fit was not right.",
       "contact": true
@@ -350,9 +369,26 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Managed and mentored a team of 12 software professionals, ensuring the successful delivery of client projects. Administered corporate network and servers, maintaining a secure and efficient IT infrastructure. Supported developers with innovative problem-solving, streamlining workflows, and implementing continuous integration. Established testing functionality to improve software quality and reliability. Manage corporate and development servers and network.",
+      "summary": "Ensure the successful delivery of client projects. Administer corporate network and servers, maintaining a secure and efficient IT infrastructure. Support developers with innovative problem-solving, streamlining workflows, and implementing continuous integration.",
       "highlights": [
-        "Used continuous integration and unit testing to streamline build process and deliver the project early."
+        "Mentor and guide a team of 12 software engineers, fostering professional growth and technical excellence.",
+        "Used continuous integration and unit/system testing to streamline build process and deliver the project early."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "C#",
+        "T-SQL",
+        "Unix",
+        "Windows",
+        "Windows Server",
+        "MS Exchange",
+        "MS SQL Server",
+        "MS Office",
+        "MS Project",
+        "Project Management",
+        "Team Management",
+        "Client Management"
       ],
       "supervised": 12,
       "reason": "Relocated.",
@@ -364,7 +400,7 @@
       "address": "Redmond, WA",
       "phone": "No longer exists",
       "website": "",
-      "position": "Associate",
+      "position": "Senior Software Engineer",
       "supervisor": "N/A",
       "startDate": "2004-05-01",
       "endDate": "2004-09-30",
@@ -373,6 +409,14 @@
       "volunteer": false,
       "avgHours": 40,
       "summary": "Design and develop a smart-client application to enable representatives to track gifts to schools and professors, and associate positive outcomes to justify activities.",
+      "skills": [
+        "C#",
+        "T-SQL",
+        "Windows",
+        "Windows Server",
+        "MS SQL Server",
+        "MS Office"
+      ],
       "reason": "Contract ended.",
       "contact": false
     },
@@ -382,7 +426,7 @@
       "address": "Seattle, WA",
       "phone": "No longer exists",
       "website": "",
-      "position": "Senior Developer",
+      "position": "Senior Software Engineer",
       "supervisor": "N/A",
       "startDate": "2003-01-01",
       "endDate": "2004-04-30",
@@ -391,6 +435,25 @@
       "volunteer": false,
       "avgHours": 60,
       "summary": "Complete the next phase of features for the Knowledge Management System started while working for Luminant Worldwide.",
+      "skills": [
+        "Java",
+        "Java Server Pages",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "PL/SQL",
+        "Bash",
+        "Linux",
+        "Unix",
+        "Oracle RDBMS",
+        "Windows",
+        "MS Office",
+        "MS Project",
+        "Project Management",
+        "Client Management"
+      ],
       "reason": "Project ended.",
       "contact": false
     },
@@ -400,7 +463,7 @@
       "address": "Seattle, WA",
       "phone": "No longer exists",
       "website": "",
-      "position": "Senior Technical Specialist",
+      "position": "Technical Project Manager",
       "supervisor": "N/A",
       "startDate": "2001-10-01",
       "endDate": "2003-01-31",
@@ -408,8 +471,33 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Manage group of six Technical Specialists. Supervise development and delivery of client projects. Architect and Deploy a Knowledge Management Solution for a Wireless Company that combined a custom web application, document management system and search engine.",
-      "reason": "Company was acquired by another company.",
+      "summary": "Ensure the successful delivery of client-driven projects on time and within scope. Manage client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity.",
+      "highlights": [
+        "Mentor and guide a team of 6 software engineers, fostering professional growth and technical excellence.",
+        "Architect and Deploy a Knowledge Management Solution for a Wireless Company that integrates a custom web application, document management system and search engine."
+      ],
+      "skills": [
+        "Java",
+        "Java Server Pages",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "PL/SQL",
+        "Bash",
+        "Linux",
+        "Unix",
+        "Oracle RDBMS",
+        "Windows",
+        "MS Office",
+        "MS Project",
+        "Project Management",
+        "Team Management",
+        "Client Management"
+      ],
+      "supervised": 6,
+      "reason": "Company went bankrupt.",
       "contact": false
     },
     {
@@ -418,7 +506,7 @@
       "address": "Redmond, WA",
       "phone": "No longer exists",
       "website": "",
-      "position": "Engineering Manager",
+      "position": "Software Engineering Manager",
       "supervisor": "N/A",
       "startDate": "2000-09-15",
       "endDate": "2001-09-30",
@@ -426,7 +514,30 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Led a team of 10 software engineers, ensuring the successful delivery of client-driven projects on time and within scope. Managed client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity. Mentored and guided software engineers, fostering professional growth and technical excellence. Proactively identified and addressed project challenges, ensuring smooth execution and client satisfaction.",
+      "summary": "Ensure the successful delivery of client-driven projects on time and within scope. Manage client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity.",
+      "highlights": [
+        "Mentor and guide a team of 10 software engineers, fostering professional growth and technical excellence.",
+        "Proactively identify and address project challenges, ensuring smooth execution and client satisfaction.",
+        "Deliver a new iteration of the MS Home web interface using Asynchronous JavaScript and XML (AJAX) for more responsiveness."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "T-SQL",
+        "Windows",
+        "Windows Server",
+        "MS SQL Server",
+        "MS Office",
+        "MS Project",
+        "Project Management",
+        "Team Management",
+        "Client Management"
+      ],
       "supervised": 10,
       "reason": "Disagreement with management.",
       "contact": false
@@ -437,7 +548,7 @@
       "address": "Mercer Island, WA",
       "phone": "No longer exists",
       "website": "",
-      "position": "Senior Developer",
+      "position": "Senior Software Engineer",
       "supervisor": "N/A",
       "startDate": "2000-05-01",
       "endDate": "2000-09-15",
@@ -445,8 +556,19 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Design and develop a web-based solution to allow submission of attorney invoices to application service provided by company, while maintaining attorney-client privilege.",
-      "reason": "I accomplished what I was hired to do.",
+      "summary": "Design and develop a web-based solution to allow submission of attorney invoices to auditing service provided by company, while maintaining attorney-client privilege.",
+      "highlights": [
+        "Implement private Public Key Infrastucture (PKI) server.",
+        "Use strong encryption to automatically encrpyt/decrypt privileged invoice sections for viewing by attorney and client only."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "Windows",
+        "Windows Server",
+        "Lotus Notes"
+      ],
+      "reason": "Project was successful.",
       "contact": false
     },
     {
@@ -463,7 +585,23 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Develop tools and techniques to integrate legacy development environment with new technologies. Generate skeleton code based on interface input, output and mapping information to speed creation of conversion and interface applications. Supervise implementation and customization of the product for customers. Work with Product Development teams to report bugs and provide suggested solutions.",
+      "summary": "Implement Enterprise Resource Planning (ERP) software at customer locations.",
+      "highlights": [
+        "Supervise implementation and customization of the product for customers.",
+        "Develop tools to speed creation of conversion and interface applications.",
+        "Work with Product Development teams to report bugs and provide suggested solutions.",
+        "Create C Library to convert raw COBOL data files."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "Informix 4GL",
+        "Bash",
+        "Unix",
+        "Windows",
+        "MS Office",
+        "COBOL"
+      ],
       "reason": "I grew tired of the constant travel.",
       "contact": false
     },
@@ -473,7 +611,7 @@
       "address": "Phoenix, AZ",
       "phone": "No longer exists",
       "website": "",
-      "position": "Associate",
+      "position": "Software Engineer",
       "supervisor": "N/A",
       "startDate": "1995-03-01",
       "endDate": "1995-05-30",
@@ -481,7 +619,17 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Develop front-end application for client/server project to connect Lawyers with the Courts. Create custom Lotus Notes add-on to automate dial-up access from within the application.",
+      "summary": "Develop front-end application for client/server project to connect Lawyers with the Courts.",
+      "highlights": [
+        "Engineer COM object to auto-dial modem to connect with central servers for synchronization."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "Component Object Model",
+        "Windows",
+        "Lotus Notes"
+      ],
       "reason": "The contract ended.",
       "contact": false
     },
@@ -491,7 +639,7 @@
       "address": "Detroit, MI",
       "phone": "No longer exists",
       "website": "",
-      "position": "Associate",
+      "position": "Software Engineer",
       "supervisor": "N/A",
       "startDate": "1994-09-01",
       "endDate": "1995-02-28",
@@ -499,7 +647,20 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Re-engineer key legacy system to streamline maintenance of data and integration with peripheral systems. Develop process to allow data to be transferred to Lotus Notes, and the modified data to be submitted as a work order; enabling the Sales team to work in the field.",
+      "summary": "Re-engineer key legacy system to streamline maintenance of data and integrate with peripheral systems.",
+      "highlights": [
+        "Develop process to allow transfer of data to/from Lotus Notes from/to Informix RDBMS."
+      ],
+      "skills": [
+        "C",
+        "C++",
+        "Informix 4GL",
+        "Bash",
+        "SQL",
+        "Unix",
+        "Windows",
+        "Lotus Notes"
+      ],
       "reason": "The contract ended.",
       "contact": false
     },
@@ -509,7 +670,7 @@
       "address": "Phoenix, AZ",
       "phone": "No longer exists",
       "website": "",
-      "position": "Software Developer",
+      "position": "Junior Software Engineer",
       "supervisor": "N/A",
       "startDate": "1993-04-01",
       "endDate": "1994-09-30",
@@ -517,7 +678,15 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Create software to automate business processes.",
+      "summary": "Create software to automate business processes per specifications.",
+      "skills": [
+        "C",
+        "C++",
+        "Informix 4GL",
+        "Bash",
+        "SQL",
+        "Unix"
+      ],
       "reason": "I wanted to relocate.",
       "contact": false
     }
