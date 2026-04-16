@@ -118,7 +118,8 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-              {% if entry.endDate == "Present" or {entry.endDate | slice: 0,4 | plus: 0} >= cutoff_year %}
+              {% assign end_year = entry.endDate | slice: 0,4 | plus: 0 %}
+              {% if entry.endDate == "Present" or end_year >= cutoff_year %}
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
               <p class="mb-0">{{ entry.summary }}</p>
               {% if entry.highlights %}
