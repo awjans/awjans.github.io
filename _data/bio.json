@@ -5,7 +5,7 @@
     "picture": "img/profile.jpg",
     "email": "andreaw@jans.org",
     "website": "https://andrea.jans.org",
-    "summary": "Software engineer and IT leader with 30+ years of experience building and optimizing systems across industries. Combines deep technical expertise in full-stack development, databases, and infrastructure with a proven track record of leading teams and delivering measurable business impact — including $200K+ in annual savings at American Electric Company. Recently completed a B.S. in Computer Science at UH Mānoa, with published research in AI-assisted software effort estimation and an NSF fellowship in data engineering.",
+    "summary": "Software engineer and IT leader with 30+ years of experience building and optimizing systems across industries. Combines deep technical expertise in full-stack development, databases, and infrastructure with a proven track record of leading teams and delivering measurable business impact — including $200K+ in annual savings at American Electric Company. Completed a B.S. in Computer Science at UH Mānoa, with published research in AI-assisted software effort estimation and an NSF fellowship in data engineering.",
     "bullets": [
       "Full-Stack Development",
       "Systems Architecture",
@@ -159,7 +159,7 @@
     {
       "id": "uhmra",
       "company": "University of Hawaiʻi at Mānoa",
-      "address": "2500 Campus Road • Honolulu, HI 96822",
+      "address": "2500 Campus Road, Honolulu, HI 96822",
       "phone": "808.956.8111",
       "website": "https://www.hawaii.edu",
       "position": "Research Assistant/Grader",
@@ -170,9 +170,10 @@
       "partTime": true,
       "volunteer": false,
       "avgHours": 10,
-      "summary": "Assisted with research papers. Graded homework, quizzes, and tests for BUS 619.",
+      "summary": "Supported faculty research in AI and software engineering while serving as grader for BUS 619. Applied Python and LLM-based toolchains to test research hypotheses.",
       "highlights": [
-        "Created Python programs to test hypothesises using various AI tool chains."
+        "Built Python programs leveraging LLM and RAG toolchains to empirically test research hypotheses in software engineering estimation.",
+        "Evaluated student work across homework, quizzes, and exams, providing detailed feedback to support learning outcomes."
       ],
       "reason": "Relocated.",
       "contact": true
@@ -180,7 +181,7 @@
     {
       "id": "uhmta",
       "company": "University of Hawaiʻi at Mānoa",
-      "address": "2500 Campus Road • Honolulu, HI 96822",
+      "address": "2500 Campus Road, Honolulu, HI 96822",
       "phone": "808.956.8111",
       "website": "https://www.hawaii.edu",
       "position": "Teaching Assistant",
@@ -191,10 +192,10 @@
       "partTime": true,
       "volunteer": false,
       "avgHours": 10,
-      "summary": "Taught ICS 101 Lab section. Graded homework, quizzes, and tests.",
+      "summary": "Led weekly ICS 101 lab sections, developed original instructional materials, and supported student learning through office hours and grading.",
       "highlights": [
-        "Created teaching material for each Lab.",
-        "Answered questions during Office Hours to one or many students."
+        "Designed and delivered lab curriculum for ICS 101, translating course concepts into hands-on exercises for introductory CS students.",
+        "Provided individualized and group support during office hours, helping students with concepts and assignments."
       ],
       "reason": "Semester ended.",
       "contact": true
@@ -215,10 +216,9 @@
       "avgHours": 45,
       "summary": "Delivered end-user technical support and server administration through effective communication, relationship-building, and problem-solving skills. Led IT department with up to 3 direct reports managing activities for 190 users. Controlled $6M budget, created and managed processes, and maintained compliance efforts. Executed identity and access management, IT strategy, and customer service functions for teams across 4 locations.",
       "highlights": [
-        "Achieved significant cost savings, including slashing capital expenditures by $100K by transitioning servers to the cloud. Saved $10K in licensing fees annually by moving to Microsoft 365 and reduced monthly expenses by $500 with a new voice carrier.",
+        "Cut capital expenditures by $100K through cloud server migration, reduced licensing costs by $10K annually by adopting Microsoft 365, and lowered monthly telecom expenses by $500.",
         "Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
         "Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
-        "Facilitated continuous improvement and promoted process improvements by analyzing operations, applications, systems, hardware, and staff to identify areas for enhancement aligned with end-user needs.",
         "Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
         "Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
       ],
@@ -240,11 +240,11 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Conceptualize innovative, custom solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
+      "summary": "Conceptualized innovative, custom solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
       "highlights": [
-        "Lower time to deploy by 90% by writing tools to capture customizations.",
-        "Develop materials and trained specialists in tools to ensure consistency and data integrity.",
-        "Improve customer satisfaction by 80% by implementing new processes to improve customer service and support."
+        "Reduced time to deploy by 90% by writing tools to capture customizations.",
+        "Developed materials and trained specialists in tools to ensure consistency and data integrity.",
+        "Improved customer satisfaction by 80% by implementing new processes to improve customer service and support."
       ],
       "reason": "Relocated.",
       "contact": true
@@ -263,9 +263,9 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to automate the warehouse processes.",
+      "summary": "Created software to automate warehouse processes.",
       "highlights": [
-        "Reduce time to pick and put by a factor of 10 by improving performance of SQL queries."
+        "Reduced time to pick and put by a factor of 10 by improving performance of SQL queries."
       ],
       "reason": "Project ended.",
       "contact": true
@@ -284,9 +284,9 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Maintain Extract-Transform-Load (ETL) processes and critical Business reports.",
+      "summary": "Maintained Extract-Transform-Load (ETL) processes and critical business reports.",
       "highlights": [
-        "Create library of C# Attribute Classes that automate reading from Database into Objects."
+        "Created a library of C# Attribute Classes to automate reading from a database into objects."
       ],
       "reason": "Project ended.",
       "contact": true
@@ -305,10 +305,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to extract and transform data using MS Excel.",
+      "summary": "Created macros to extract, transform, and load data using MS Excel.",
       "highlights": [
-        "Improve performance of Visual Basic for Applications (VBA) macros.",
-        "Tune SQL Queries to further enhance performance."
+        "Improved performance of Visual Basic for Applications (VBA) macros.",
+        "Tuned SQL queries to further enhance performance."
       ],
       "reason": "Contract ended.",
       "contact": true
@@ -327,7 +327,7 @@
       "partTime": false,
       "volunteer": true,
       "avgHours": 40,
-      "summary": "Optimize backend code to enhance performance.",
+      "summary": "Optimized backend code to enhance performance.",
       "highlights": [
         "Reduced time to load email by 80% by caching static data and improving query performance."
       ],
@@ -348,10 +348,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Brought in to research, document and solve performance issues with Extract-Transform-Load (ETL) processes and critical Business reports.",
+      "summary": "Brought in to research, document, and solve performance issues with Extract-Transform-Load (ETL) processes and critical business reports.",
       "highlights": [
-        "Reduce time to extract, transform, and load data from over night to under an hour.",
-        "Decrease time to generate reports by 90% by optimizing SQL queries."
+        "Reduced time to extract, transform, and load data from overnight to under an hour.",
+        "Decreased time to generate reports by 90% by optimizing SQL queries."
       ],
       "reason": "Disability.",
       "contact": true
@@ -370,10 +370,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Create software to automate business processes.",
+      "summary": "Created software to automate business processes.",
       "highlights": [
-        "Create COM plugin for FoxPro to process credit cards over encrypted internet connection.",
-        "Manage selection of Enterprise Resource Planning (ERP) system to replace legacy system."
+        "Created COM plugin for FoxPro to process credit cards over encrypted internet connection.",
+        "Managed selection of Enterprise Resource Planning (ERP) system to replace legacy system."
       ],
       "reason": "Mutual understanding.",
       "contact": true
@@ -392,10 +392,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Ensure the successful delivery of client projects. Administer corporate network and servers, maintaining a secure and efficient IT infrastructure. Support developers with innovative problem-solving, streamlining workflows, and implementing continuous integration.",
+      "summary": "Ensured the successful delivery of client projects. Administered corporate network and servers, maintaining a secure and efficient IT infrastructure. Supported developers with innovative problem-solving, streamlining workflows, and implementing continuous integration.",
       "highlights": [
-        "Mentor and guide a team of 12 software engineers, fostering professional growth and technical excellence.",
-        "Proactively identify and address project challenges, ensuring smooth execution and client satisfaction.",
+        "Mentored and guided a team of 12 software engineers, fostering professional growth and technical excellence.",
+        "Proactively identified and addressed project challenges, ensuring smooth execution and client satisfaction.",
         "Used continuous integration and unit/system testing to streamline build process and deliver the project early."
       ],
       "supervised": 12,
@@ -416,7 +416,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 40,
-      "summary": "Design and develop a smart-client application to enable representatives to track gifts to schools and professors, and associate positive outcomes to justify activities.",
+      "summary": "Designed and developed a smart-client application to enable representatives to track gifts to schools and professors, and associate positive outcomes to justify activities.",
       "reason": "Contract ended.",
       "contact": false
     },
@@ -434,7 +434,7 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Complete the next phase of features for the Knowledge Management System started while working for Luminant Worldwide.",
+      "summary": "Completed the next phase of features for the Knowledge Management System started while working for Luminant Worldwide.",
       "reason": "Project ended.",
       "contact": false
     },
@@ -452,10 +452,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 60,
-      "summary": "Ensure the successful delivery of client-driven projects on time and within scope. Manage client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity.",
+      "summary": "Managed client-driven software projects from post-sale handoff through delivery, leading a team of 6 engineers. Served as primary client liaison, overseeing planning, task assignments, and resource allocation for complex web-based solutions.",
       "highlights": [
-        "Mentor and guide a team of 6 software engineers, fostering professional growth and technical excellence.",
-        "Architect and Deploy a Knowledge Management Solution for a Wireless Company that integrates a custom web application, document management system and search engine."
+        "Mentored and guided a team of 6 software engineers, fostering professional growth and technical excellence.",
+        "Architected and deployed a Knowledge Management Solution for a wireless company that integrated a custom web application, document management system, and search engine."
       ],
       "supervised": 6,
       "reason": "Company went bankrupt.",
@@ -475,11 +475,11 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Ensure the successful delivery of client-driven projects on time and within scope. Manage client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity.",
+      "summary": "Led a team of 10 engineers delivering client projects on time and within scope. Managed resource allocation, project planning, and stakeholder relationships while remaining hands-on with front-end web development.",
       "highlights": [
-        "Mentor and guide a team of 10 software engineers, fostering professional growth and technical excellence.",
-        "Proactively identify and address project challenges, ensuring smooth execution and client satisfaction.",
-        "Deliver a new iteration of the MS Home web interface using Asynchronous JavaScript and XML (AJAX) for more responsiveness."
+        "Mentored and guided a team of 10 software engineers, fostering professional growth and technical excellence.",
+        "Proactively identified and addressed project challenges, ensuring smooth execution and client satisfaction.",
+        "Delivered a new iteration of the MS Home web interface using Asynchronous JavaScript and XML (AJAX) for more responsiveness."
       ],
       "supervised": 10,
       "reason": "Disagreement with management.",
@@ -499,10 +499,10 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Design and develop a web-based solution to allow submission of attorney invoices to auditing service provided by company, while maintaining attorney-client privilege.",
+      "summary": "Designed and developed a web-based solution to allow submission of attorney invoices to an auditing service, while maintaining attorney-client privilege.",
       "highlights": [
-        "Implement private Public Key Infrastucture (PKI) server.",
-        "Use strong encryption to automatically encrpyt/decrypt privileged invoice sections for viewing by attorney and client only."
+        "Implemented a private Public Key Infrastructure (PKI) server.",
+        "Used strong encryption to automatically encrypt/decrypt privileged invoice sections for viewing by attorney and client only."
       ],
       "reason": "Project was successful.",
       "contact": false
@@ -521,14 +521,14 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Implement Enterprise Resource Planning (ERP) software at customer locations.",
+      "summary": "Implemented Enterprise Resource Planning (ERP) software at customer locations.",
       "highlights": [
-        "Supervise implementation and customization of the product for customers.",
-        "Develop tools to speed creation of conversion and interface applications.",
-        "Work with Product Development teams to report bugs and provide suggested solutions.",
-        "Create C Library to convert raw COBOL data files."
+        "Supervised implementation and customization of the product for customers.",
+        "Developed tools to speed creation of conversion and interface applications.",
+        "Worked with product development teams to report bugs and provide suggested solutions.",
+        "Created a C library to convert raw COBOL data files."
       ],
-      "reason": "I grew tired of the constant travel.",
+      "reason": "Constant travel.",
       "contact": false
     },
     {
@@ -545,11 +545,11 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Develop front-end application for client/server project to connect Lawyers with the Courts.",
+      "summary": "Developed a front-end application for a client/server project to connect lawyers with the courts.",
       "highlights": [
-        "Engineer COM object to auto-dial modem to connect with central servers for synchronization."
+        "Engineered a COM object to auto-dial modem to connect with central servers for synchronization."
       ],
-      "reason": "The contract ended.",
+      "reason": "Contract ended.",
       "contact": false
     },
     {
@@ -566,9 +566,9 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Re-engineer key legacy system to streamline maintenance of data and integrate with peripheral systems.",
+      "summary": "Re-engineered a key legacy system to streamline maintenance of data and integrate with peripheral systems.",
       "highlights": [
-        "Develop process to allow transfer of data to/from Lotus Notes from/to Informix RDBMS."
+        "Developed a process to allow transfer of data to/from Lotus Notes from/to Informix RDBMS."
       ],
       "reason": "The contract ended.",
       "contact": false
@@ -587,8 +587,8 @@
       "partTime": false,
       "volunteer": false,
       "avgHours": 50,
-      "summary": "Create software to automate business processes per specifications.",
-      "reason": "I wanted to relocate.",
+      "summary": "Created software to automate business processes per specifications.",
+      "reason": "Desire to Relocate.",
       "contact": false
     }
   ],
