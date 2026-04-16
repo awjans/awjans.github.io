@@ -130,7 +130,8 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa",
+      "address": "Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
@@ -159,7 +160,7 @@
     {
       "id": "uhmra",
       "company": "University of Hawaiʻi at Mānoa",
-      "address": "2500 Campus Road, Honolulu, HI 96822",
+      "address": "Honolulu, HI",
       "phone": "808.956.8111",
       "website": "https://www.hawaii.edu",
       "position": "Research Assistant/Grader",
@@ -181,7 +182,7 @@
     {
       "id": "uhmta",
       "company": "University of Hawaiʻi at Mānoa",
-      "address": "2500 Campus Road, Honolulu, HI 96822",
+      "address": "Honolulu, HI",
       "phone": "808.956.8111",
       "website": "https://www.hawaii.edu",
       "position": "Teaching Assistant",
@@ -203,7 +204,7 @@
     {
       "id": "aec",
       "company": "American Electric Company, LLC",
-      "address": "799 Kahelu Ave, Mililani, HI 96789",
+      "address": "Mililani, HI",
       "phone": "808.848.0751",
       "website": "https://www.americanelectric.com",
       "position": "Director, IT",
@@ -229,7 +230,7 @@
     {
       "id": "vcs",
       "company": "Viewpoint Construction Software",
-      "address": "5665 Meadows Road, Suite 400, Lake Oswego, OR, 97035",
+      "address": "Portland, OR",
       "phone": "971.255.4800",
       "website": "https://www.viewpoint.com",
       "position": "Database Specialist",
@@ -252,7 +253,7 @@
     {
       "id": "ctdi",
       "company": "Communications Test Design, Inc.",
-      "address": "22638 NE Townsend Way, Fairview, OR 97024",
+      "address": "Fairview, OR",
       "phone": "503.405.3515",
       "website": "https://www.ctdi.com",
       "position": "Senior Software Engineer",
@@ -273,7 +274,7 @@
     {
       "id": "vsc",
       "company": "Vector Software Corporation",
-      "address": "5 Third Street, San Francisco, CA 94103",
+      "address": "Vancouver, WA",
       "phone": "408.450.5300",
       "website": "https://www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
@@ -294,7 +295,7 @@
     {
       "id": "nweisolap",
       "company": "Northwest EIS OLAP",
-      "address": "404 East 15th Street, Suite 9, Vancouver, WA 98663",
+      "address": "Vancouver, WA",
       "phone": "360.905.7934",
       "website": "https://www.nweisolap.com",
       "position": "Senior Software Engineer",
@@ -337,7 +338,7 @@
     {
       "id": "vsc2",
       "company": "Vector Software Corporation",
-      "address": "5 Third Street, San Francisco, CA 94103",
+      "address": "Vancouver, WA",
       "phone": "408.450.5300",
       "website": "https://www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
@@ -359,7 +360,7 @@
     {
       "id": "usdigital",
       "company": "US Digital",
-      "address": "1400 NE 136th Avenue, Vancouver, Washington 98684",
+      "address": "Vancouver, WA",
       "phone": "360.260.2468",
       "website": "https://www.usdigital.com",
       "position": "Senior Software Engineer",
