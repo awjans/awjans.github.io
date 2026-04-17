@@ -4,9 +4,4 @@
     .no-print {
         display: none !important;
     }
-
-    /* You can also target specific tags */
-    header {
-        display: none !important;
-    }
 }
