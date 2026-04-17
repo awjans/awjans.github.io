@@ -12,7 +12,7 @@ layout: home
     <div class="row">
       <div class="col">
         <h1 class="text-center">{{ site.data.bio.basics.name }}</h1>
-        <h3 class="text-center">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</h3>
+        <h3 class="text-center">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }}</h3>
       </div>
     </div>
 
@@ -170,9 +170,9 @@ layout: home
       <div class="col-lg-9">
         {% for entry in site.data.bio.education %}
         <div class="row mb-3">
-          <div class="col-9">
-            <p class="m-0"><b>{{ entry.institution }}</b></p>
-            <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
+          <div class="col-12">
+            <h4 class="mb-0">{{ entry.institution }}</h4>
+            <h5 class="mb-0">{{ entry.studyType }}, {{ entry.area }}</h5>
 <!--             {% if entry.courses %}
             <ul>
               {% for course in entry.courses %}
@@ -180,23 +180,25 @@ layout: home
               {% endfor %}
             </ul>
             {% endif %}
- -->          </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
+ -->        <h6 class="mb-0">
               {% if entry.startDate %}
-              {{ entry.startDate | slice: 5,2 }}/{{ entry.startDate | slice: 0,4 }}
+                {% assign month_num = entry.startDate | slice: 5,2 %}
+                {% assign month_index = month_num | plus: 0 | minus: 1 %}
+                {{ month_names[month_index] }} {{ entry.startDate | slice: 0,4 }}
               {% endif %}
               {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-              -
+              to
               {% endif %}
               {% if entry.endDate %}
               {% if entry.endDate != "Present" %}
-              {{ entry.endDate | slice: 5,2 }}/{{ entry.endDate | slice: 0,4 }}
+                {% assign month_num = entry.endDate | slice: 5,2 %}
+                {% assign month_index = month_num | plus: 0 | minus: 1 %}
+                {{ month_names[month_index] }} {{ entry.endDate | slice: 0,4 }}
               {% else %}
-              {{ entry.endDate }}
+                {{ entry.endDate }}
               {% endif %}
               {% endif %}
-            </p>
+            </h6>
           </div>
         </div>
         {% endfor %}
