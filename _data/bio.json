@@ -171,7 +171,7 @@
       "partTime": true,
       "volunteer": false,
       "avgHours": 10,
-      "summary": "Supported faculty research in AI and software engineering while serving as grader for BUS 619. Applied Python and LLM-based toolchains to test research hypotheses.",
+      "summary": "Supported faculty research in AI and software engineering while serving as grader for BUS 619.",
       "highlights": [
         "Built Python programs leveraging LLM and RAG toolchains to empirically test research hypotheses in software engineering estimation.",
         "Evaluated student work across homework, quizzes, and exams, providing detailed feedback to support learning outcomes."
